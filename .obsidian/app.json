@@ -1,0 +1,12 @@
+{
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "Attachment",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "fr-FR"
+  ],
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
