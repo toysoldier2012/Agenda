@@ -4,49 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "98768648835d358e",
+        "id": "416f8304b2d0283d",
         "type": "tabs",
         "children": [
           {
-            "id": "27dd1bd0a32702a4",
+            "id": "2ea8cd8314f171e1",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "c530fecb57e374f4",
+            "id": "3a94d2601f358020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 备忘录/搬家换地址.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be0a3d8e0c57726f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 备忘录/面试.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76afe90968cc5366",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "02 Kanban/Kanban.md"
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -116,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 备忘录/搬家换地址.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 备忘录/搬家换地址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,16 +127,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 备忘录/搬家换地址.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "555963fd5c838ead",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,17 +156,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c530fecb57e374f4",
+  "active": "555963fd5c838ead",
   "lastOpenFiles": [
-    "02 Kanban/Kanban.md",
-    "01 备忘录/搬家换地址.md",
-    "01 备忘录/面试.md",
+    "03 Full Calendar Events/Work/2023-02-14 Entretien tech mind7.md",
     "00 Inbox/Nas.md",
+    "02 Kanban/Kanban.md",
+    "01 备忘录/面试.md",
+    "01 备忘录/搬家换地址.md",
     "00 Inbox/照片后期备份流程.md",
     "00 Inbox/9月潜水.md",
     "00 Inbox/面试八股文.md",
     "03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
-    "03 Full Calendar Events/Work/2023-01-16 面试 Seyos.md",
-    "03 Full Calendar Events/Work/2023-01-16 面试 easy partner.md"
+    "03 Full Calendar Events/Work/2023-01-16 面试 Seyos.md"
   ]
 }

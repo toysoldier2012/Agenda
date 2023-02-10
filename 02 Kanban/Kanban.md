@@ -10,7 +10,7 @@ kanban-plugin: basic
 
 ## 进行中
 
-- [ ] Java学习
+- [ ] 搞定Linkedln测试
 
 
 ## 完成
