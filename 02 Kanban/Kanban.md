@@ -6,10 +6,16 @@ kanban-plugin: basic
 
 ## 规划中
 
+- [ ] AOP
+- [ ] 代理模式
+- [ ] REST
+- [ ] SOAP
+- [ ] Webservice
 
 
 ## 进行中
 
+- [ ] JAVA基础回顾<br><br>@{2023-02-14-周二}
 
 
 ## 完成

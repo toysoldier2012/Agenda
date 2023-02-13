@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ea8cd8314f171e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "f69d21beb9ebd57b",
             "type": "leaf",
             "state": {
@@ -33,8 +25,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Kanban/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Kanban/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 Kanban/Kanban.md"
+              }
             }
           },
           {
@@ -168,15 +163,15 @@
   },
   "active": "f69d21beb9ebd57b",
   "lastOpenFiles": [
+    "00 Inbox/2023-02-13-周一.md",
+    "01 备忘录/面试.md",
     "02 Kanban/Kanban.md",
+    "00 Inbox/Nas.md",
+    "00 Inbox/照片后期备份流程.md",
     "03 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
     "03 Full Calendar Events/Work/2023-02-14 Entretien tech mind7.md",
-    "00 Inbox/Nas.md",
-    "01 备忘录/面试.md",
     "01 备忘录/搬家换地址.md",
-    "00 Inbox/照片后期备份流程.md",
     "00 Inbox/9月潜水.md",
-    "00 Inbox/面试八股文.md",
-    "03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md"
+    "00 Inbox/面试八股文.md"
   ]
 }
