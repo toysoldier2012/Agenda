@@ -14,20 +14,8 @@
               "type": "full-calendar-view",
               "state": {}
             }
-          },
-          {
-            "id": "4b38639e948d8391",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "03 Full Calendar Events/Work/2023-02-20 entretien.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +147,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4b38639e948d8391",
+  "active": "555963fd5c838ead",
   "lastOpenFiles": [
     "01 备忘录/面试.md",
     "03 Full Calendar Events/Work/2023-02-16 Astek entretien.md",
