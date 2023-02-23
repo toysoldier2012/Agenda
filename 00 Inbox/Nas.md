@@ -80,9 +80,9 @@ ip a
 软件安装
 
 ```
-apt update
-apt upgrade
-apt list --installed | grep program_name
+sudo apt update
+sudo apt upgrade
+sudo apt list --installed | grep program_name
 ```
 
 Docker
