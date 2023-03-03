@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8d676f4585ebbb7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,6 @@
       {
         "id": "a10b3ccc7ec3275d",
         "type": "tabs",
-        "dimension": 56.25,
         "children": [
           {
             "id": "bf6c0dde980814f1",
@@ -140,25 +150,10 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "6ae7c819aac3e838",
-        "type": "tabs",
-        "dimension": 43.75,
-        "children": [
-          {
-            "id": "62154ee33f33b941",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 567.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,15 +165,15 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "b6fed6b29ede8c3c",
+  "active": "e8d676f4585ebbb7",
   "lastOpenFiles": [
+    "00 Inbox/Nas.md",
+    "01 备忘录/面试.md",
+    "02 Kanban/Kanban.md",
     "01 备忘录/搬家换地址.md",
     "00 Inbox/照片后期备份流程.md",
     "00 Inbox/9月潜水.md",
-    "02 Kanban/Kanban.md",
-    "00 Inbox/Nas.md",
     "00 Inbox/面试八股文.md",
-    "01 备忘录/面试.md",
     "03 Full Calendar Events/Work/2023-03-01 DYNAMIS entretien.md",
     "03 Full Calendar Events/Holiday/2023-02-26 羊角村.md",
     "03 Full Calendar Events/Holiday/2023-02-25 赞丹风车群.md",
