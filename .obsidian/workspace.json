@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee7af72a76a699b",
+        "id": "aff7fbe37c713514",
         "type": "tabs",
         "children": [
           {
-            "id": "7b6263ad4d45f5d5",
+            "id": "b6fed6b29ede8c3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 面试/面试.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac6e6f00873055fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 面试/Sogeti.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ae297687041e0d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 面试/一面.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57cac13d85bc3b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 面试/面试.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,12 +76,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "226468fa3c5e82ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "555963fd5c838ead",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "bf6c0dde980814f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 面试/Sogeti.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 面试/Sogeti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,62 +128,49 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "226468fa3c5e82ba",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "04 面试/Sogeti.md"
-              }
-            }
-          },
-          {
-            "id": "555963fd5c838ead",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false
     }
   },
-  "active": "ac6e6f00873055fb",
+  "active": "2aa69c35859db2c5",
   "lastOpenFiles": [
-    "04 面试/面试.md",
-    "04 面试/Sogeti.md",
-    "04 面试/一面.md",
-    "04 面试",
+    "03 面试/一面.md",
+    "03 面试/面试.md",
+    "03 面试/Sogeti.md",
+    "03 面试",
+    "01 备忘录/一面.md",
+    "01 备忘录/面试.md",
+    "Template/Dairy.md",
     "00 Inbox/Diggers.md",
-    "03 Full Calendar Events/Work/2023-03-01 DYNAMIS entretien.md",
-    "03 Full Calendar Events/Holiday/2023-02-26 羊角村.md",
-    "03 Full Calendar Events/Holiday/2023-02-25 赞丹风车群.md",
-    "03 Full Calendar Events/Holiday/2023-02-25 梵高博物馆.md",
-    "03 Full Calendar Events/Holiday/2023-02-24 小孩堤坝+海牙吃饭.md",
-    "03 Full Calendar Events/Work/2023-02-16 Astek entretien.md",
-    "02 Kanban/Kanban.md",
-    "00 Inbox/2023-02-13-周一.md",
     "00 Inbox/Nas.md",
-    "00 Inbox/照片后期备份流程.md",
-    "03 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
-    "03 Full Calendar Events/Work/2023-02-14 Entretien tech mind7.md",
+    "04 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
+    "02 Kanban/Kanban.md",
     "01 备忘录/搬家换地址.md",
-    "00 Inbox/9月潜水.md"
+    "00 Inbox/照片后期备份流程.md",
+    "00 Inbox/9月潜水.md",
+    "00 Inbox/面试八股文.md",
+    "04 Full Calendar Events/Work/2023-03-01 DYNAMIS entretien.md",
+    "04 Full Calendar Events/Holiday/2023-02-26 羊角村.md",
+    "04 Full Calendar Events/Holiday/2023-02-25 赞丹风车群.md",
+    "04 Full Calendar Events/Holiday/2023-02-25 梵高博物馆.md",
+    "04 Full Calendar Events/Holiday/2023-02-24 小孩堤坝+海牙吃饭.md",
+    "04 Full Calendar Events/Work/2023-02-16 Astek entretien.md",
+    "00 Inbox/2023-02-13-周一.md",
+    "04 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
+    "03 Full Calendar Events/Work/2023-02-14 Entretien tech mind7.md"
   ]
 }
