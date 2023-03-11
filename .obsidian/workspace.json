@@ -11,8 +11,10 @@
             "id": "b6fed6b29ede8c3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "02 Kanban/Kanban.md"
+              }
             }
           }
         ]
@@ -80,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 Kanban/Kanban.md"
+              }
             }
           },
           {
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Kanban/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Kanban/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,7 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "2aa69c35859db2c5",
+  "active": "b6fed6b29ede8c3c",
   "lastOpenFiles": [
     "03 面试/一面.md",
     "03 面试/面试.md",
