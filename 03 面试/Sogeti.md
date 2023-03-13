@@ -1,4 +1,9 @@
-# 对方公司情况
+
+## 15/03
+
+***
+
+## 10/03
 
 cloud & tech
 
@@ -8,19 +13,16 @@ RH
 tech
 manager tech
 
-
-après contrat entretien client
+entretien client après le contrat 
 
 2. Mission细节
 
 presta format chez sogeti
 presta normal
-formation outil talent
 
+formation par outil talent
 
 3. 工资状况
-
-
 
 poste actuel
 mon equipe
