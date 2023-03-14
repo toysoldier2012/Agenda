@@ -4,6 +4,9 @@
 # Entretien
 
 Combien d'entretien?
+
+2
+
 il y aura une entretien avec client avant le contrat?
 
 # Mission
@@ -11,7 +14,12 @@ il y aura une entretien avec client avant le contrat?
 Est ce que vous avez déjà une idée sur la mission pour moi
 Dans quelle entreprise? 
 La durée de la mission?
+
+long
+
 Un peu plus de détail de mission, technologie, principe de travail
+
+travail chez polyconseil
 
 ***
 
