@@ -1,6 +1,15 @@
 
-
 ## 14/03
+
+# Entretien
+
+Combien d'entretien?
+
+2
+
+il y aura une entretien avec client avant le contrat?
+
+no
 
 # Mission
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee7af72a76a699b",
+        "id": "aff7fbe37c713514",
         "type": "tabs",
         "children": [
           {
-            "id": "57cac13d85bc3b56",
+            "id": "b6fed6b29ede8c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0d3831dcefa2e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 面试/Polyconseil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d80674fea689a032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 面试/Polyconseil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +80,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "226468fa3c5e82ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 面试/面试.md"
+              }
+            }
+          },
+          {
+            "id": "555963fd5c838ead",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "bf6c0dde980814f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 面试/Polyconseil.md",
+                "file": "03 面试/面试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 面试/Polyconseil.md",
+                "file": "03 面试/面试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,76 +136,52 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "226468fa3c5e82ba",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "03 面试/Polyconseil.md"
-              }
-            }
-          },
-          {
-            "id": "555963fd5c838ead",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false
     }
   },
-  "active": "d80674fea689a032",
+  "active": "b6fed6b29ede8c3c",
   "lastOpenFiles": [
-    "03 面试/面试.md",
-    "03 面试/Polyconseil.md",
-    "03 面试/面试问题.md",
     "03 面试/Sogeti.md",
+    "03 面试/Polyconseil.md",
     "03 面试/Mobiskill.md",
-    "04 面试/一面.md",
-    "04 Full Calendar Events/Work/2023-03-02 Diggers RV de validation technique.md",
-    "04 Full Calendar Events/Work/2023-03-01 DYNAMIS entretien.md",
-    "04 Full Calendar Events/Work/2023-02-21 Entretien alten.md",
-    "04 Full Calendar Events/Work/2023-02-20 Skillink Uavia entretien.md",
-    "04 Full Calendar Events/Work/2023-02-20 entretien.md",
-    "04 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
-    "04 Full Calendar Events/Work/2023-02-17 ALTEN entretien.md",
-    "04 Full Calendar Events/Work/2023-02-16 Uavia.md",
-    "04 Full Calendar Events/Work/2023-02-16 Astek entretien.md",
-    "04 Full Calendar Events/Work/2023-02-15 SOFTCORP entretien.md",
-    "04 Full Calendar Events/Work/2023-02-01 Pixmania二轮面试.md",
-    "04 Full Calendar Events/Work/2023-02-01 mind7面试.md",
-    "04 Full Calendar Events/Work/2023-01-26 Pixmania面试.md",
-    "04 Full Calendar Events/Work/2023-01-18 面试 Praxedo.md",
-    "04 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
-    "04 Full Calendar Events/Work/2023-01-16 面试 easy partner.md",
-    "04 Full Calendar Events/Work/2023-01-16 面试 Seyos.md",
-    "04 Full Calendar Events/Work/2023-01-16 开会.md",
-    "04 Full Calendar Events/Sleep/(Every S,F,R,T,W,M,U) Sleep).md",
-    "04 Full Calendar Events/Holiday/2023-02-26 羊角村.md",
-    "04 Full Calendar Events/Work",
-    "04 Full Calendar Events/Sleep",
-    "04 Full Calendar Events/Holiday",
-    "04 Full Calendar Events/Daily",
-    "04 Full Calendar Events",
+    "03 面试/面试问题.md",
+    "03 面试/面试.md",
+    "02 Kanban/Kanban.md",
+    "03 面试/一面.md",
     "03 面试",
-    "04 面试"
+    "01 备忘录/一面.md",
+    "01 备忘录/面试.md",
+    "Template/Dairy.md",
+    "00 Inbox/Diggers.md",
+    "00 Inbox/Nas.md",
+    "04 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
+    "01 备忘录/搬家换地址.md",
+    "00 Inbox/照片后期备份流程.md",
+    "00 Inbox/9月潜水.md",
+    "00 Inbox/面试八股文.md",
+    "04 Full Calendar Events/Work/2023-03-01 DYNAMIS entretien.md",
+    "04 Full Calendar Events/Holiday/2023-02-26 羊角村.md",
+    "04 Full Calendar Events/Holiday/2023-02-25 赞丹风车群.md",
+    "04 Full Calendar Events/Holiday/2023-02-25 梵高博物馆.md",
+    "04 Full Calendar Events/Holiday/2023-02-24 小孩堤坝+海牙吃饭.md",
+    "04 Full Calendar Events/Work/2023-02-16 Astek entretien.md",
+    "00 Inbox/2023-02-13-周一.md",
+    "04 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
+    "03 Full Calendar Events/Work/2023-02-14 Entretien tech mind7.md"
   ]
 }

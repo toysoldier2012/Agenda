@@ -9,6 +9,8 @@ Combien d'entretien?
 
 il y aura une entretien avec client avant le contrat?
 
+no
+
 # Mission
 
 Est ce que vous avez déjà une idée sur la mission pour moi
