@@ -1,6 +1,12 @@
 
 ## 15/03
 
+
+
+poste actuel
+mon equipe
+poste future
+
 ***
 
 ## 10/03
@@ -24,6 +30,4 @@ formation par outil talent
 
 3. 工资状况
 
-poste actuel
-mon equipe
-poste future
+50k

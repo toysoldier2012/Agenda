@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fba35b2682a8d173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 面试/Diggers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cef70689f89df6c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 面试/Sogeti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 面试/面试.md"
+                "file": "03 面试/Sogeti.md"
               }
             }
           },
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 面试/面试.md",
+                "file": "03 面试/Sogeti.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 面试/面试.md",
+                "file": "03 面试/Sogeti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,13 +179,15 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "b6fed6b29ede8c3c",
+  "active": "cef70689f89df6c4",
   "lastOpenFiles": [
-    "03 面试/Sogeti.md",
-    "03 面试/Polyconseil.md",
-    "03 面试/Mobiskill.md",
-    "03 面试/面试问题.md",
+    "03 面试/需求模板.md",
+    "03 面试/Diggers.md",
     "03 面试/面试.md",
+    "03 面试/面试问题.md",
+    "03 面试/Sogeti.md",
+    "03 面试/Mobiskill.md",
+    "03 面试/Polyconseil.md",
     "02 Kanban/Kanban.md",
     "03 面试/一面.md",
     "03 面试",
@@ -180,8 +207,6 @@
     "04 Full Calendar Events/Holiday/2023-02-25 梵高博物馆.md",
     "04 Full Calendar Events/Holiday/2023-02-24 小孩堤坝+海牙吃饭.md",
     "04 Full Calendar Events/Work/2023-02-16 Astek entretien.md",
-    "00 Inbox/2023-02-13-周一.md",
-    "04 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
-    "03 Full Calendar Events/Work/2023-02-14 Entretien tech mind7.md"
+    "00 Inbox/2023-02-13-周一.md"
   ]
 }
