@@ -1,3 +1,26 @@
+合同本身
+
+1. CDI
+2. 入职日期和签合同日期
+
+职位
+
+mission
+
+薪水
+
+1. salaire fix 12/13？
+2. variable
+3. prime
+4. autre
+
+实习期/cadre ou sans cadre
+
+假期/RTT
+
+联系人
+
+***
 
 4 axes
 
