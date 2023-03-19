@@ -1,5 +1,31 @@
 {
-  "calendarSources": [],
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#ffbf75",
+      "directory": "04 Full Calendar Events/Daily"
+    },
+    {
+      "type": "local",
+      "color": "#78f7b5",
+      "directory": "04 Full Calendar Events/Holiday"
+    },
+    {
+      "type": "local",
+      "color": "#8f8f8f",
+      "directory": "04 Full Calendar Events/Sleep"
+    },
+    {
+      "type": "local",
+      "color": "#6fc5fb",
+      "directory": "04 Full Calendar Events/Work"
+    },
+    {
+      "type": "local",
+      "color": "#ff8585",
+      "directory": "04 Full Calendar Events/23年回国"
+    }
+  ],
   "defaultCalendar": 0,
   "recursiveLocal": false,
   "firstDay": 1,
