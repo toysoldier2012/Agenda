@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/回国计划.md",
+                "file": "02 Kanban/Insta360.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/回国计划.md"
+                "file": "02 Kanban/Insta360.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/回国计划.md",
+                "file": "02 Kanban/Insta360.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/回国计划.md",
+                "file": "02 Kanban/Insta360.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,17 +201,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "555963fd5c838ead",
+  "active": "cef70689f89df6c4",
   "lastOpenFiles": [
+    "02 Kanban/回国计划.md",
+    "02 Kanban/全景行车记录仪.md",
+    "02 Kanban/Kanban.md",
+    "00 Inbox/照片后期备份流程.md",
+    "00 Inbox/Nas.md",
+    "02 Kanban/Insta360.md",
+    "01 备忘录/搬家换地址.md",
+    "Attachment/Pasted image 20230323225657.png",
+    "Attachment/Pasted image 20230323223652.png",
     "Attachment/Pasted image 20230323092020.png",
     "Attachment/Pasted image 20230323091009.png",
-    "00 Inbox/Insta360.md",
-    "00 Inbox/全景行车记录仪.md",
-    "02 Kanban/Kanban.md",
-    "00 Inbox/Nas.md",
-    "00 Inbox/回国计划.md",
-    "00 Inbox/照片后期备份流程.md",
-    "01 备忘录/搬家换地址.md",
     "03 面试/归档/面试.md",
     "03 面试/归档/面试问题.md",
     "03 面试/归档/Diggers.md",
