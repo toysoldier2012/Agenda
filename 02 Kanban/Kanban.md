@@ -12,7 +12,6 @@ kanban-plugin: basic
 - [ ] 凶巴巴影集<br>#p2 #凶巴巴 @{2023-10-11-周三}
 - [ ] 研究一下Roole<br>@{2023-12-01-周五} #p4
 - [ ] 买书<br>[Jardins & plantes d'intérieur - encyclopédie Truffaut | Rakuten](https://fr.shopping.rakuten.com/offer/buy/49183894/Jardins-Plantes-D-interieur-Encyclopedie-Truffaut-Livre.html?fbbaid=12698246942&t=180191)
-- [ ] 找家政阿姨 #p1
 - [ ] 存支票 #p2
 - [ ] 山水影集
 - [ ] 去年潜水视频<br>#p3
@@ -24,7 +23,7 @@ kanban-plugin: basic
 
 ## 规划中
 
-- [ ] 求婚<br>#p1 #凶巴巴 @{2023-04-29-周六}
+- [ ] [[求婚]]<br>#p1 #凶巴巴 @{2023-04-29-周六}
 - [ ] 回国购物清单<br><br>1. [[Insta360]]<br>2. [[手机]]<br>3. [[全景行车记录仪]]<br><br>@{2023-05-23-周二} #p2
 - [ ] [[回国计划]]<br>@{2023-05-23-周二} #p1
 
@@ -40,6 +39,7 @@ kanban-plugin: basic
 **完成**
 - [x] 5月初徒步计划
 - [x] 跟seb确定离职程序
+- [x] 找家政阿姨 #p1
 - [x] 买个手机好了
 - [x] [[Insta360]]
 - [x] 传文件
