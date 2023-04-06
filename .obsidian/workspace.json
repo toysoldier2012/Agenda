@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "9464e3acd98273ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Femme de ménage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9278284bc0284fb4",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/全景视频后期流程.md"
+                "file": "02 Kanban/Kanban.md"
               }
             }
           },
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/全景视频后期流程.md",
+                "file": "02 Kanban/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/全景视频后期流程.md",
+                "file": "02 Kanban/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,16 +213,20 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9278284bc0284fb4",
+  "active": "fba35b2682a8d173",
   "lastOpenFiles": [
+    "00 Inbox/全景视频后期流程.md",
+    "00 Inbox/Femme de ménage.md",
     "02 Kanban/Kanban.md",
+    "04 Full Calendar Events/Holiday/2023-05-07 接叶子回来.md",
+    "04 Full Calendar Events/Holiday/2023-04-28 出发送叶子去潜水喽~gulolo.md",
+    "04 Full Calendar Events/Daily/2023-04-09 出游.md",
     "02 Kanban/回国计划.md",
     "Attachment/Pasted image 20230404205734.png",
     "02 Kanban/全景行车记录仪.md",
     "02 Kanban/Insta360.md",
     "01 备忘录/搬家换地址.md",
     "00 Inbox/求婚.md",
-    "00 Inbox/全景视频后期流程.md",
     "04 Full Calendar Events/Daily/2023-04-08 徐可家吃饭.md",
     "Attachment/Pasted image 20230330213559.png",
     "00 Inbox/照片后期备份流程.md",
@@ -232,9 +248,6 @@
     "04 Full Calendar Events/23年回国/2023-06-06 济南.md",
     "04 Full Calendar Events/23年回国/2023-06-07 济南.md",
     "04 Full Calendar Events/23年回国/2023-06-05 武汉 - 济南.md",
-    "04 Full Calendar Events/23年回国/(Every U,S,F,R,W,T,M) 武汉).md",
-    "04 Full Calendar Events/23年回国/2023-06-03 爸妈来武汉.md",
-    "04 Full Calendar Events/Daily/(Every ) 武汉).md",
     "04 Full Calendar Events/23年回国",
     "Attachment/Pasted image 20230317155740.png",
     "Attachment/Pasted image 20230317155433.png",
