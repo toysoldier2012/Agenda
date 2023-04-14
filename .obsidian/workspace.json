@@ -26,9 +26,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "50ca6c888335d7d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Kanban/回国计划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Kanban/Kanban.md"
+                "file": "02 Kanban/回国计划.md"
               }
             }
           },
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "02 Kanban/回国计划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "02 Kanban/回国计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +201,28 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fba35b2682a8d173",
+  "active": "50ca6c888335d7d1",
   "lastOpenFiles": [
+    "02 Kanban/Kanban.md",
+    "02 Kanban/回国计划.md",
+    "Attachment/Pasted image 20230414113106.png",
+    "04 Full Calendar Events/23年回国/(Every R,W) 北京).md",
+    "04 Full Calendar Events/23年回国/2023-06-12 乳山.md",
+    "04 Full Calendar Events/23年回国/2023-06-10 东营.md",
+    "04 Full Calendar Events/23年回国/(Every R,W) 济南).md",
+    "04 Full Calendar Events/Daily/2023-06-07 济南.md",
+    "04 Full Calendar Events/23年回国/(Every S,F,R,W,M,T,U) 武汉).md",
+    "04 Full Calendar Events/23年回国/2023-06-13 乳山-北京.md",
+    "04 Full Calendar Events/23年回国/(Every ) 武汉).md",
+    "04 Full Calendar Events/Daily/2023-04-15 攀岩.md",
+    "04 Full Calendar Events/Daily/2023-04-15 看樱花？.md",
+    "04 Full Calendar Events/Daily/2023-04-22 回家.md",
+    "04 Full Calendar Events/Daily/2023-04-22 前往比利时.md",
+    "04 Full Calendar Events/Daily/2023-04-22 利美钻石.md",
+    "04 Full Calendar Events/Holiday/2023-05-08 Ferie.md",
+    "04 Full Calendar Events/Holiday/2023-05-01 Ferie.md",
+    "04 Full Calendar Events/Holiday/2023-04-29 帮黑土搬家.md",
+    "04 Full Calendar Events/Holiday/2023-04-28 里尔帮黑土搬家.md",
     "04 Full Calendar Events/23年回国/2023-06-16 返程北京 - 巴黎.md",
     "Attachment/Pasted image 20230404205734.png",
     "04 Full Calendar Events/Holiday/2023-05-07 接叶子回来.md",
@@ -201,34 +233,13 @@
     "Attachment/Pasted image 20230323225657.png",
     "Attachment/Pasted image 20230323223652.png",
     "04 Full Calendar Events/Daily/2023-04-08 徐可家吃饭.md",
-    "02 Kanban/回国计划.md",
-    "02 Kanban/全景行车记录仪.md",
-    "02 Kanban/Insta360.md",
-    "00 Inbox/全景视频后期流程.md",
     "Attachment/Pasted image 20230323092020.png",
     "Attachment/Pasted image 20230323091009.png",
-    "00 Inbox/Insta360.md",
-    "00 Inbox/全景行车记录仪.md",
-    "02 Kanban/Kanban.md",
-    "00 Inbox/Nas.md",
-    "00 Inbox/回国计划.md",
-    "00 Inbox/照片后期备份流程.md",
-    "01 备忘录/搬家换地址.md",
-    "03 面试/归档/面试.md",
-    "03 面试/归档/面试问题.md",
-    "03 面试/归档/Diggers.md",
     "03 面试/归档",
-    "04 Full Calendar Events/Holiday/2023-05-18 放假.md",
-    "04 Full Calendar Events/23年回国/2023-06-16 北京 - 巴黎.md",
-    "04 Full Calendar Events/23年回国/2023-06-12 青岛 - 北京.md",
-    "04 Full Calendar Events/23年回国/2023-06-10 乳山 - 青岛.md",
-    "04 Full Calendar Events/23年回国/2023-06-09 东营 - 乳山.md",
-    "04 Full Calendar Events/23年回国/2023-06-08 济南 - 东营.md",
     "04 Full Calendar Events/23年回国",
     "Attachment/Pasted image 20230317155740.png",
     "Attachment/Pasted image 20230317155433.png",
     "Attachment/Pasted image 20230317155135.png",
-    "Attachment/Pasted image 20230317155015.png",
     "03 面试"
   ]
 }
