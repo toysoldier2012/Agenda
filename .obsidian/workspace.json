@@ -26,21 +26,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "50ca6c888335d7d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Kanban/回国计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Kanban/回国计划.md"
+                "file": "02 Kanban/Kanban.md"
               }
             }
           },
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Kanban/回国计划.md",
+                "file": "02 Kanban/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Kanban/回国计划.md",
+                "file": "02 Kanban/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,38 +189,38 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "50ca6c888335d7d1",
+  "active": "fba35b2682a8d173",
   "lastOpenFiles": [
-    "02 Kanban/Kanban.md",
-    "02 Kanban/回国计划.md",
     "Attachment/Pasted image 20230414113106.png",
-    "04 Full Calendar Events/23年回国/(Every R,W) 北京).md",
-    "04 Full Calendar Events/23年回国/2023-06-12 乳山.md",
-    "04 Full Calendar Events/23年回国/2023-06-10 东营.md",
-    "04 Full Calendar Events/23年回国/(Every R,W) 济南).md",
-    "04 Full Calendar Events/Daily/2023-06-07 济南.md",
-    "04 Full Calendar Events/23年回国/(Every S,F,R,W,M,T,U) 武汉).md",
-    "04 Full Calendar Events/23年回国/2023-06-13 乳山-北京.md",
-    "04 Full Calendar Events/23年回国/(Every ) 武汉).md",
-    "04 Full Calendar Events/Daily/2023-04-15 攀岩.md",
-    "04 Full Calendar Events/Daily/2023-04-15 看樱花？.md",
-    "04 Full Calendar Events/Daily/2023-04-22 回家.md",
-    "04 Full Calendar Events/Daily/2023-04-22 前往比利时.md",
-    "04 Full Calendar Events/Daily/2023-04-22 利美钻石.md",
     "04 Full Calendar Events/Holiday/2023-05-08 Ferie.md",
     "04 Full Calendar Events/Holiday/2023-05-01 Ferie.md",
     "04 Full Calendar Events/Holiday/2023-04-29 帮黑土搬家.md",
     "04 Full Calendar Events/Holiday/2023-04-28 里尔帮黑土搬家.md",
+    "04 Full Calendar Events/Daily/2023-04-22 回家.md",
+    "04 Full Calendar Events/Daily/2023-04-22 前往比利时.md",
+    "04 Full Calendar Events/Daily/2023-04-22 利美钻石.md",
+    "04 Full Calendar Events/Daily/2023-04-15 看樱花？.md",
+    "04 Full Calendar Events/Daily/2023-04-15 攀岩.md",
+    "04 Full Calendar Events/23年回国/2023-06-13 乳山-北京.md",
+    "04 Full Calendar Events/23年回国/2023-06-12 乳山.md",
+    "04 Full Calendar Events/23年回国/2023-06-11 东营 - 乳山.md",
+    "04 Full Calendar Events/23年回国/2023-06-10 东营.md",
+    "04 Full Calendar Events/23年回国/2023-06-09 济南 - 东营.md",
+    "04 Full Calendar Events/23年回国/2023-06-06 武汉 - 济南.md",
+    "04 Full Calendar Events/23年回国/2023-06-02 爸妈来武汉.md",
+    "04 Full Calendar Events/23年回国/2023-05-26 杭州 - 武汉.md",
+    "04 Full Calendar Events/23年回国/2023-05-25 深圳 - 广州.md",
+    "04 Full Calendar Events/23年回国/2023-05-25 广州 - 杭州.md",
+    "04 Full Calendar Events/23年回国/2023-05-24 香港 - 深圳.md",
+    "04 Full Calendar Events/23年回国/(Every S,F,R,W,M,T,U) 武汉).md",
+    "04 Full Calendar Events/23年回国/(Every R,W) 济南).md",
+    "04 Full Calendar Events/23年回国/(Every R,W) 北京).md",
     "04 Full Calendar Events/23年回国/2023-06-16 返程北京 - 巴黎.md",
     "Attachment/Pasted image 20230404205734.png",
     "04 Full Calendar Events/Holiday/2023-05-07 接叶子回来.md",
-    "04 Full Calendar Events/Holiday/2023-04-28 出发送叶子去潜水喽~gulolo.md",
-    "04 Full Calendar Events/Daily/2023-04-09 出游.md",
-    "00 Inbox/Femme de ménage.md",
     "Attachment/Pasted image 20230330213559.png",
     "Attachment/Pasted image 20230323225657.png",
     "Attachment/Pasted image 20230323223652.png",
-    "04 Full Calendar Events/Daily/2023-04-08 徐可家吃饭.md",
     "Attachment/Pasted image 20230323092020.png",
     "Attachment/Pasted image 20230323091009.png",
     "03 面试/归档",
@@ -240,6 +228,7 @@
     "Attachment/Pasted image 20230317155740.png",
     "Attachment/Pasted image 20230317155433.png",
     "Attachment/Pasted image 20230317155135.png",
+    "Attachment/Pasted image 20230317155015.png",
     "03 面试"
   ]
 }
