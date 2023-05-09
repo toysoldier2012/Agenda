@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd10fc1f3841bade",
+            "id": "91e8d3499b8d41e6",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "fba35b2682a8d173",
+            "id": "65b6682130728404",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -28,12 +28,36 @@
             }
           },
           {
-            "id": "104cdf7ccbfa74e6",
+            "id": "4db186f2b6025e75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/钻戒.md",
+                "file": "05 Path of toysoldier/挖坟.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4738ec551da0a613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Path of toysoldier/问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30005e6b9e4182a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Path of toysoldier/挖坟.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +107,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc073a5777b54e48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -106,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/钻戒.md"
+                "file": "05 Path of toysoldier/挖坟.md"
               }
             }
           },
@@ -124,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/钻戒.md",
+                "file": "05 Path of toysoldier/挖坟.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/钻戒.md",
+                "file": "05 Path of toysoldier/挖坟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,44 +233,45 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "104cdf7ccbfa74e6",
+  "active": "4db186f2b6025e75",
   "lastOpenFiles": [
+    "02 Kanban/Kanban.md",
+    "04 Full Calendar Events/23年回国/2023-05-24 深圳.md",
+    "04 Full Calendar Events/23年回国/2023-05-26 杭州.md",
+    "04 Full Calendar Events/Work/2023-05-23 巴黎 - 香港.md",
+    "04 Full Calendar Events/Daily/2023-05-28 聚餐.md",
+    "04 Full Calendar Events/Daily/2023-05-27 聚餐.md",
+    "04 Full Calendar Events/Work/2023-05-28 上海 - 汉口.md",
+    "Attachment/Pasted image 20230508132656.png",
+    "04 Full Calendar Events/Work/2023-05-27 杭州 - 上海.md",
+    "04 Full Calendar Events/Work/2023-05-26 广州 - 杭州.md",
+    "Attachment/Pasted image 20230508131103.png",
+    "Attachment/Pasted image 20230508131010.png",
+    "04 Full Calendar Events/Daily/2023-05-27 金哥聚餐.md",
+    "04 Full Calendar Events/Daily/2023-05-24 聚餐.md",
+    "04 Full Calendar Events/Daily/2023-05-25 聚餐.md",
+    "04 Full Calendar Events/Daily/2023-05-26 跟luc吃饭.md",
+    "02 Kanban/回国计划.md",
+    "04 Full Calendar Events/Work/2023-05-26 深圳 - 广州.md",
+    "05 Path of toysoldier/基础.md",
+    "05 Path of toysoldier/挖坟.md",
+    "05 Path of toysoldier/问题.md",
+    "05 Path of toysoldier/Kirac的回忆.md",
+    "Attachment/Pasted image 20230507004857.png",
+    "05 Path of toysoldier/挖坟策略.md",
+    "05 Path of toysoldier",
+    "00 Inbox/归档",
+    "00 Inbox/归档/Femme de ménage.md",
+    "00 Inbox/Nas.md",
+    "00 Inbox/归档/钻戒.md",
+    "03 面试/面试问题.md",
+    "03 面试/面试.md",
+    "Attachment/Pasted image 20230417225743.png",
+    "Attachment/Pasted image 20230417225715.png",
+    "Attachment/Pasted image 20230417225655.png",
+    "Attachment/Pasted image 20230417225620.png",
     "Attachment/Pasted image 20230417223956.png",
     "Attachment/Pasted image 20230417223751.png",
-    "Attachment/Pasted image 20230417223125.png",
-    "Attachment/Pasted image 20230417222931.png",
-    "Attachment/Pasted image 20230417222611.png",
-    "Attachment/Pasted image 20230417222316.png",
-    "Attachment/Pasted image 20230417221951.png",
-    "Attachment/Pasted image 20230417220659.png",
-    "Attachment/Pasted image 20230417220627.png",
-    "Attachment/Pasted image 20230417220605.png",
-    "02 Kanban/Kanban.md",
-    "00 Inbox/钻戒.md",
-    "Attachment/Pasted image 20230414113106.png",
-    "04 Full Calendar Events/Holiday/2023-05-08 Ferie.md",
-    "04 Full Calendar Events/Holiday/2023-05-01 Ferie.md",
-    "04 Full Calendar Events/Holiday/2023-04-29 帮黑土搬家.md",
-    "04 Full Calendar Events/Holiday/2023-04-28 里尔帮黑土搬家.md",
-    "04 Full Calendar Events/Daily/2023-04-22 回家.md",
-    "04 Full Calendar Events/Daily/2023-04-22 前往比利时.md",
-    "04 Full Calendar Events/Daily/2023-04-22 利美钻石.md",
-    "04 Full Calendar Events/Daily/2023-04-15 看樱花？.md",
-    "04 Full Calendar Events/Daily/2023-04-15 攀岩.md",
-    "04 Full Calendar Events/23年回国/2023-06-13 乳山-北京.md",
-    "04 Full Calendar Events/23年回国/2023-06-12 乳山.md",
-    "04 Full Calendar Events/23年回国/2023-06-11 东营 - 乳山.md",
-    "04 Full Calendar Events/23年回国/2023-06-10 东营.md",
-    "04 Full Calendar Events/23年回国/2023-06-09 济南 - 东营.md",
-    "04 Full Calendar Events/23年回国/2023-06-06 武汉 - 济南.md",
-    "04 Full Calendar Events/23年回国/2023-06-02 爸妈来武汉.md",
-    "04 Full Calendar Events/23年回国/2023-05-26 杭州 - 武汉.md",
-    "04 Full Calendar Events/23年回国/2023-05-25 深圳 - 广州.md",
-    "04 Full Calendar Events/23年回国/2023-05-25 广州 - 杭州.md",
-    "04 Full Calendar Events/23年回国/2023-05-24 香港 - 深圳.md",
-    "04 Full Calendar Events/23年回国/(Every S,F,R,W,M,T,U) 武汉).md",
-    "04 Full Calendar Events/23年回国/(Every R,W) 济南).md",
-    "04 Full Calendar Events/23年回国/(Every R,W) 北京).md",
     "03 面试/归档",
     "04 Full Calendar Events/23年回国",
     "03 面试"

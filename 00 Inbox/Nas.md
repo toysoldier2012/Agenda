@@ -45,6 +45,10 @@ DvLPbW0FR}ghv9w
 xiaoyu
 evvf8YXEEB
 
+### Portainer
+admin
+1m?bQ0yrhhn,qf-
+
 ### Gitlab
 root
 evvf8YXEEB
