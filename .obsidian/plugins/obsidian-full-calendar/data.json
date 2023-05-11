@@ -19,19 +19,14 @@
       "type": "local",
       "color": "#6fc5fb",
       "directory": "04 Full Calendar Events/Work"
-    },
-    {
-      "type": "local",
-      "color": "#f58a8a",
-      "directory": "04 Full Calendar Events/23年回国"
     }
   ],
   "defaultCalendar": 0,
-  "recursiveLocal": false,
   "firstDay": 1,
   "initialView": {
     "desktop": "timeGridWeek",
     "mobile": "timeGrid3Days"
   },
-  "timeFormat24h": true
+  "timeFormat24h": true,
+  "recursiveLocal": false
 }
