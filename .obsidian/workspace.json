@@ -19,32 +19,16 @@
             "id": "753864f9320d7619",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "02 Kanban/Kanban.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9b06f512e9d50ecf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "652002abad3a858b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/求婚.md",
+                "file": "05 Path of toysoldier/角色规划.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/求婚.md"
+                "file": "05 Path of toysoldier/角色规划.md"
               }
             }
           },
@@ -136,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/求婚.md",
+                "file": "05 Path of toysoldier/角色规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/求婚.md",
+                "file": "05 Path of toysoldier/角色规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,10 +196,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "652002abad3a858b",
+  "active": "753864f9320d7619",
   "lastOpenFiles": [
     "02 Kanban/Kanban.md",
-    "00 Inbox/求婚.md",
+    "02 Kanban/求婚.md",
     "02 Kanban/回国计划.md",
     "05 Path of toysoldier/角色规划.md",
     "03 面试/问公司的问题.md",
