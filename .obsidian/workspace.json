@@ -16,15 +16,15 @@
             }
           },
           {
-            "id": "753864f9320d7619",
+            "id": "57e7a0689ef3915c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "02 Kanban/求婚.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "02 Kanban/Kanban.md"
+              },
+              "pinned": true
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Kanban/求婚.md"
+                "file": "02 Kanban/Kanban.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Kanban/求婚.md",
+                "file": "02 Kanban/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Kanban/求婚.md",
+                "file": "02 Kanban/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,11 +197,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "753864f9320d7619",
+  "active": "57e7a0689ef3915c",
   "lastOpenFiles": [
+    "02 Kanban/求婚.md",
     "05 Path of toysoldier/角色规划.md",
     "02 Kanban/Kanban.md",
-    "02 Kanban/求婚.md",
     "02 Kanban/回国计划.md",
     "03 面试/问公司的问题.md",
     "03 面试/需求模板.md",
