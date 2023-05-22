@@ -7,34 +7,38 @@ kanban-plugin: basic
 ## Backlog
 
 - [ ] 02/23 荷兰照片视频 #p3
-- [ ] 换银行<br>#p2 @{2023-05-23-周二}
 - [ ] 私房照片<br>#p2 <br>#凶巴巴 @{2023-08-23-周三}
 - [ ] 凶巴巴影集<br>#p2 #凶巴巴 @{2023-10-11-周三}
 - [ ] 研究一下Roole<br>@{2023-12-01-周五} #p4
-- [ ] 买书<br>[Jardins & plantes d'intérieur - encyclopédie Truffaut | Rakuten](https://fr.shopping.rakuten.com/offer/buy/49183894/Jardins-Plantes-D-interieur-Encyclopedie-Truffaut-Livre.html?fbbaid=12698246942&t=180191)
 - [ ] 山水影集
 - [ ] 去年潜水视频<br>#p3
-- [ ] 射击<br>#p3 #赵友珅 #凶巴巴
+- [ ] 射击<br>#p3 #赵友珅 #凶巴巴 #郑乐
 - [ ] 沙发套<br>#p4 #生活
 - [ ] 智能家居<br>#p4 #生活
 
 
 ## 规划中
 
-- [ ] 给老板写信
 - [ ] 叶子跟叶子妈妈拍亲子照
 - [ ] 回国办单身证明
-- [ ] 18号旅行计划<br>#p2 #郑乐 #凶巴巴
 
 
 ## 进行中
 
-- [ ] [[回国计划]]<br><br>1. 购物<br>- [ ] 巧克力<br>- [ ] 红酒<br>2. 订车票订住宿<br>- [ ] 火车票<br>3. 给叶子爸爸妈妈买东西<br>- [x] 护肤品<br>- [ ] 按摩仪<br>4. 给我爸妈买东西<br>- [x] 护肤品<br>- [x] 枕头<br>@{2023-05-23-周二} #p1
-- [ ] 回国购物清单<br><br>1. [[Insta360]]<br>2. [[手机]]<br>3. [[全景行车记录仪]]<br><br>@{2023-05-23-周二} #p2
+- [ ] 发朋友圈
+- [ ] [[回国计划]]<br><br>1. 购物<br>- [x] 巧克力<br>- [x] 红酒<br>2. 订车票订住宿<br>- [x] 火车票<br>3. 给叶子爸爸妈妈买东西<br>- [x] 护肤品<br>- [ ] 按摩仪<br>4. 给我爸妈买东西<br>- [x] 护肤品<br>- [ ] 枕头<br>@{2023-05-23-周二} #p1
+- [ ] 回国购物清单<br><br>1. [[Insta360]]<br>2. [[手机]]<br>3. [[全景行车记录仪]]<br>4. [[Pad]]<br><br>@{2023-05-23-周二} #p2
 
 
 ## 完成
 
+- [ ] 买书<br>[Jardins & plantes d'intérieur - encyclopédie Truffaut | Rakuten](https://fr.shopping.rakuten.com/offer/buy/49183894/Jardins-Plantes-D-interieur-Encyclopedie-Truffaut-Livre.html?fbbaid=12698246942&t=180191)
+- [ ] 换银行<br>#p2 @{2023-05-23-周二}
+- [ ] 回复黑土
+- [ ] 火车票
+- [ ] 18号旅行计划<br>#p2 #郑乐 #凶巴巴
+- [ ] 传照片
+- [ ] 给老板写信
 
 
 ## 归档
@@ -69,8 +73,6 @@ kanban-plugin: basic
 - [ ] 2022-12-23-周五 21:03 下载穿梭vpn
 
 
-***
-
 ## 归档
 
 - [ ] [[求婚]]<br>#p1 #凶巴巴 @{2023-05-13-周六}<br>[GIA 5456059490]<br>(https://www.gia.edu/report-check?reportno=5456059490)
@@ -87,6 +89,9 @@ kanban-plugin: basic
 - [x] 2023-04-26-周三 20:56 [[Insta360]]
 - [x] 2023-04-26-周三 20:56 传文件
 - [x] 2023-04-26-周三 20:56 请假
+
+
+
 
 %% kanban:settings
 ```
