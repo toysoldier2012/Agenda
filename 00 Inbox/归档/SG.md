@@ -1,0 +1,10 @@
+- Java Fullstack
+- Java 11/17/19
+- Angular 12/14 majoritairement et 1 projet en VueJS 2.6 donc moins de besoin
+- Spring 2/3 & SpringBoot (batch, scheduler, jpa, …)
+- Kafka
+- PostgreSQL
+- Très bonne connaissance des architectures microservices
+- Docker & Kubernetes
+- Très bon relationnel, organisation matricielle, Agile/SAFe
+- Anglais B2

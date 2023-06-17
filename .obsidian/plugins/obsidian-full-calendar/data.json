@@ -2,23 +2,23 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#ffbf75",
-      "directory": "04 Full Calendar Events/Daily"
+      "color": "#ff7575",
+      "directory": "03 Full Calendar Events/Daily"
     },
     {
       "type": "local",
-      "color": "#78f7b5",
-      "directory": "04 Full Calendar Events/Holiday"
+      "color": "#8affa7",
+      "directory": "03 Full Calendar Events/Holiday"
     },
     {
       "type": "local",
-      "color": "#8f8f8f",
-      "directory": "04 Full Calendar Events/Sleep"
+      "color": "#c7c7c7",
+      "directory": "03 Full Calendar Events/Sleep"
     },
     {
       "type": "local",
-      "color": "#6fc5fb",
-      "directory": "04 Full Calendar Events/Work"
+      "color": "#94cbff",
+      "directory": "03 Full Calendar Events/Work"
     }
   ],
   "defaultCalendar": 0,
