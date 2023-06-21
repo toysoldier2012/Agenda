@@ -10,32 +10,29 @@
           {
             "id": "85e3a05a621f6d44",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
                 "file": "02 Kanban/Kanban.md"
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "3be76173c375dcb2",
+            "id": "4283b7b35a553ff7",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "194092c4b39f8f18",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "02 Kanban/Kanban.md"
+                "file": "00 Inbox/归档/SG.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "2dff958b3a7b7f49",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Kanban/Kanban.md"
+                "file": "00 Inbox/归档/SG.md"
               }
             }
           },
@@ -128,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "00 Inbox/归档/SG.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "00 Inbox/归档/SG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,43 +197,42 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "555963fd5c838ead",
+  "active": "2aa69c35859db2c5",
   "lastOpenFiles": [
+    "00 Inbox/存钱.md",
+    "02 Kanban/Kanban.md",
+    "00 Inbox/存钱 1.md",
     "00 Inbox/归档/面试.md",
-    "03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
     "02 Kanban/Achieve/求婚.md",
-    "03 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
     "02 Kanban/Achieve/Insta360.md",
     "00 Inbox/归档/Diggers.md",
-    "03 Full Calendar Events/Work/2023-01-16 面试 Seyos.md",
-    "03 Full Calendar Events/Work/2023-01-16 面试 easy partner.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-16 面试 Seyos.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-16 面试 easy partner.md",
     "02 Kanban/Achieve/回国计划.md",
     "00 Inbox/归档/问公司的问题.md",
     "02 Kanban/Achieve/钻戒.md",
     "00 Inbox/归档/SG.md",
-    "03 Full Calendar Events/Work/2023-05-26 广州 - 杭州 _ 飞机.md",
-    "03 Full Calendar Events/Sleep/(Every S,F,R,T,W,M,U) Sleep).md",
-    "03 Full Calendar Events/Work/2023-05-27 杭州西 - 汉口.md",
-    "03 Full Calendar Events/Work/2023-05-29 上海 - 汉口.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-26 广州 - 杭州 _ 飞机.md",
+    "00 Inbox/归档/03 Full Calendar Events/Sleep/(Every S,F,R,T,W,M,U) Sleep).md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-27 杭州西 - 汉口.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-29 上海 - 汉口.md",
     "02 Kanban/Achieve/Femme de ménage.md",
-    "03 Full Calendar Events/Work/2023-05-23 巴黎 - 香港.md",
-    "03 Full Calendar Events/Holiday/2023-04-28 出发送叶子去潜水喽~gulolo.md",
-    "03 Full Calendar Events/Work/2023-05-26 深圳 - 广州南站 _ 到时候再买票.md",
-    "03 Full Calendar Events/Daily/2022-12-17 看电影.md",
-    "03 Full Calendar Events/Work/2023-05-24 香港 - 深圳 _ 到时候再买票.md",
-    "03 Full Calendar Events/Work/2023-03-02 Diggers RV de validation technique.md",
-    "03 Full Calendar Events/Work/2023-06-13 青岛 - 东营.md",
-    "03 Full Calendar Events/Work/2023-06-11 乳山 - 青岛.md",
-    "03 Full Calendar Events/Work/2023-02-17 ALTEN entretien.md",
-    "03 Full Calendar Events/Holiday",
-    "03 Full Calendar Events/Sleep",
-    "03 Full Calendar Events/Daily",
-    "03 Full Calendar Events/Work",
-    "03 Full Calendar Events",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-23 巴黎 - 香港.md",
+    "00 Inbox/归档/03 Full Calendar Events/Holiday/2023-04-28 出发送叶子去潜水喽~gulolo.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-26 深圳 - 广州南站 _ 到时候再买票.md",
+    "00 Inbox/归档/03 Full Calendar Events/Daily/2022-12-17 看电影.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-24 香港 - 深圳 _ 到时候再买票.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-03-02 Diggers RV de validation technique.md",
+    "00 Inbox/归档/03 Full Calendar Events/Holiday",
+    "00 Inbox/归档/03 Full Calendar Events/Sleep",
+    "00 Inbox/归档/03 Full Calendar Events/Daily",
+    "00 Inbox/归档/03 Full Calendar Events/Work",
+    "00 Inbox/归档/03 Full Calendar Events",
     "02 Kanban/Achieve",
     "04 经济学",
     "经济学",
@@ -251,7 +246,7 @@
     "Attachment/Pasted image 20230417225620.png",
     "Attachment/Pasted image 20230417223956.png",
     "Attachment/Pasted image 20230417223751.png",
-    "05 Path of toysoldier",
+    "03 Path of toysoldier",
     "00 Inbox/归档"
   ]
 }
