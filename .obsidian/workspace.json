@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "2dff958b3a7b7f49",
@@ -204,7 +205,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "85e3a05a621f6d44",
+  "active": "555963fd5c838ead",
   "lastOpenFiles": [
     "00 Inbox/归档/面试.md",
     "03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
