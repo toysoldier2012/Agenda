@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "4283b7b35a553ff7",
+            "id": "1535b5e2e1e0c0f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/归档/SG.md",
+                "file": "03 Path of toysoldier/舆图.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6982b4cfc963c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Path of toysoldier/探险.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6ce1e00a673a00c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/存钱.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/归档/SG.md"
+                "file": "00 Inbox/存钱.md"
               }
             }
           },
@@ -124,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/归档/SG.md",
+                "file": "00 Inbox/存钱.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/归档/SG.md",
+                "file": "00 Inbox/存钱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +205,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,10 +223,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2aa69c35859db2c5",
+  "active": "e6ce1e00a673a00c",
   "lastOpenFiles": [
-    "00 Inbox/存钱.md",
     "02 Kanban/Kanban.md",
+    "03 Path of toysoldier/舆图.md",
+    "03 Path of toysoldier/探险.md",
+    "03 Path of toysoldier/角色规划.md",
+    "03 Path of toysoldier/流亡经济学.md",
+    "03 Path of toysoldier/问题.md",
+    "00 Inbox/归档/SG.md",
+    "00 Inbox/存钱.md",
     "00 Inbox/存钱 1.md",
     "00 Inbox/归档/面试.md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
@@ -216,18 +245,12 @@
     "02 Kanban/Achieve/回国计划.md",
     "00 Inbox/归档/问公司的问题.md",
     "02 Kanban/Achieve/钻戒.md",
-    "00 Inbox/归档/SG.md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-26 广州 - 杭州 _ 飞机.md",
     "00 Inbox/归档/03 Full Calendar Events/Sleep/(Every S,F,R,T,W,M,U) Sleep).md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-27 杭州西 - 汉口.md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-29 上海 - 汉口.md",
     "02 Kanban/Achieve/Femme de ménage.md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-23 巴黎 - 香港.md",
-    "00 Inbox/归档/03 Full Calendar Events/Holiday/2023-04-28 出发送叶子去潜水喽~gulolo.md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-26 深圳 - 广州南站 _ 到时候再买票.md",
-    "00 Inbox/归档/03 Full Calendar Events/Daily/2022-12-17 看电影.md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-24 香港 - 深圳 _ 到时候再买票.md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-03-02 Diggers RV de validation technique.md",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "00 Inbox/归档/03 Full Calendar Events/Daily",
