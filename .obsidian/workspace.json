@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "1535b5e2e1e0c0f6",
+            "id": "a16271bf7d854af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Path of toysoldier/舆图.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6982b4cfc963c45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Path of toysoldier/探险.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6ce1e00a673a00c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/存钱.md",
+                "file": "03 Path of toysoldier/流亡经济学.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/存钱.md"
+                "file": "03 Path of toysoldier/流亡经济学.md"
               }
             }
           },
@@ -148,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/存钱.md",
+                "file": "03 Path of toysoldier/流亡经济学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/存钱.md",
+                "file": "03 Path of toysoldier/流亡经济学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +181,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,17 +200,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e6ce1e00a673a00c",
+  "active": "a16271bf7d854af9",
   "lastOpenFiles": [
+    "03 Path of toysoldier/角色规划.md",
+    "03 Path of toysoldier/探险.md",
     "02 Kanban/Kanban.md",
     "03 Path of toysoldier/舆图.md",
-    "03 Path of toysoldier/探险.md",
-    "03 Path of toysoldier/角色规划.md",
+    "00 Inbox/存钱.md",
+    "00 Inbox/存钱 1.md",
     "03 Path of toysoldier/流亡经济学.md",
     "03 Path of toysoldier/问题.md",
     "00 Inbox/归档/SG.md",
-    "00 Inbox/存钱.md",
-    "00 Inbox/存钱 1.md",
     "00 Inbox/归档/面试.md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
     "02 Kanban/Achieve/求婚.md",
