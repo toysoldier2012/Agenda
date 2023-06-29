@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 备忘录/搬家换地址.md",
+                "file": "03 Path of toysoldier/角色规划.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 备忘录/搬家换地址.md"
+                "file": "03 Path of toysoldier/角色规划.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 备忘录/搬家换地址.md",
+                "file": "03 Path of toysoldier/角色规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 备忘录/搬家换地址.md",
+                "file": "03 Path of toysoldier/角色规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +202,12 @@
   },
   "active": "a16271bf7d854af9",
   "lastOpenFiles": [
-    "03 Path of toysoldier/流亡经济学.md",
-    "03 Path of toysoldier/角色规划.md",
     "03 Path of toysoldier/探险.md",
+    "03 Path of toysoldier/刷图统计方法论.md",
+    "03 Path of toysoldier/角色规划.md",
+    "03 Path of toysoldier/流亡经济学.md",
     "02 Kanban/Kanban.md",
+    "01 备忘录/搬家换地址.md",
     "03 Path of toysoldier/舆图.md",
     "00 Inbox/存钱.md",
     "00 Inbox/存钱 1.md",
@@ -226,8 +228,6 @@
     "00 Inbox/归档/03 Full Calendar Events/Sleep/(Every S,F,R,T,W,M,U) Sleep).md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-27 杭州西 - 汉口.md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-29 上海 - 汉口.md",
-    "02 Kanban/Achieve/Femme de ménage.md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-23 巴黎 - 香港.md",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "00 Inbox/归档/03 Full Calendar Events/Daily",
