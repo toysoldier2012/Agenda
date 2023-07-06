@@ -29,12 +29,11 @@ kanban-plugin: basic
 ## 进行中
 
 - [ ] itération et récursion
-- [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [ ] 3<br>- [ ] 4<br>- [ ] 14
+- [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.7<br>	- [ ] 4.8<br>- [ ] 14
 
 
 ## 完成
 
-**完成**
 
 
 ## Archive
@@ -97,8 +96,6 @@ kanban-plugin: basic
 - [x] 2022-12-23-周五 21:03 2022-12-15-周四 13:19 银行转账<br>@{2022-12-15-周四} #生活 #p1
 
 
-***
-
 ## 归档
 
 - [ ] 银行解锁转账<br>@{2023-06-23-周五}
@@ -110,6 +107,9 @@ kanban-plugin: basic
 - [ ] SpringBoot<br>@{2023-06-19-周一}
 - [ ] MyBatis<br>@{2023-06-19-周一}
 - [ ] Spring<br>- [x] 手写IoC<br>- [x] AoP<br>@{2023-06-19}
+
+
+
 
 %% kanban:settings
 ```
