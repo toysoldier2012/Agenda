@@ -20,31 +20,17 @@
             }
           },
           {
-            "id": "a16271bf7d854af9",
+            "id": "fe73360e4486246b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "01 备忘录/搬家换地址.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94d24b9c578e1fe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/Présentation.md",
-                "mode": "source",
-                "source": false
+                "file": "02 Kanban/Kanban.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +59,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -118,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Présentation.md"
+                "file": "02 Kanban/Kanban.md"
               }
             }
           },
@@ -136,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/Présentation.md",
+                "file": "02 Kanban/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/Présentation.md",
+                "file": "02 Kanban/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,25 +188,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "94d24b9c578e1fe8",
+  "active": "fe73360e4486246b",
   "lastOpenFiles": [
+    "02 Kanban/Achieve/Pad.md",
+    "02 Kanban/Achieve/Insta360.md",
+    "02 Kanban/Achieve/Femme de ménage.md",
+    "02 Kanban/Achieve/钻戒.md",
+    "02 Kanban/Achieve/手机.md",
+    "02 Kanban/Achieve/求婚.md",
+    "02 Kanban/Achieve/全景行车记录仪.md",
+    "02 Kanban/Achieve/回国计划.md",
     "02 Kanban/Kanban.md",
-    "01 备忘录/搬家换地址.md",
+    "05 Nas/系统选择.md",
+    "05 Nas/软件.md",
+    "05 Nas/密码表.md",
     "00 Inbox/Présentation.md",
+    "05 Nas/硬件.md",
+    "05 Nas",
     "03 Path of toysoldier/角色规划.md",
     "03 Path of toysoldier/探险.md",
     "03 Path of toysoldier/刷图统计方法论.md",
     "03 Path of toysoldier/流亡经济学.md",
+    "01 备忘录/搬家换地址.md",
     "03 Path of toysoldier/舆图.md",
     "00 Inbox/存钱.md",
     "00 Inbox/存钱 1.md",
@@ -228,18 +227,6 @@
     "00 Inbox/归档/SG.md",
     "00 Inbox/归档/面试.md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
-    "02 Kanban/Achieve/求婚.md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
-    "02 Kanban/Achieve/Insta360.md",
-    "00 Inbox/归档/Diggers.md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-16 面试 Seyos.md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-16 面试 easy partner.md",
-    "02 Kanban/Achieve/回国计划.md",
-    "00 Inbox/归档/问公司的问题.md",
-    "02 Kanban/Achieve/钻戒.md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-26 广州 - 杭州 _ 飞机.md",
-    "00 Inbox/归档/03 Full Calendar Events/Sleep/(Every S,F,R,T,W,M,U) Sleep).md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-05-27 杭州西 - 汉口.md",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "00 Inbox/归档/03 Full Calendar Events/Daily",
@@ -258,7 +245,6 @@
     "Attachment/Pasted image 20230417225620.png",
     "Attachment/Pasted image 20230417223956.png",
     "Attachment/Pasted image 20230417223751.png",
-    "03 Path of toysoldier",
-    "00 Inbox/归档"
+    "03 Path of toysoldier"
   ]
 }
