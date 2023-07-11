@@ -28,15 +28,14 @@ kanban-plugin: basic
 
 ## 进行中
 
+- [ ] MVC
 - [ ] itération et récursion
-- [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.7<br>	- [ ] 4.8<br>- [ ] 14
+- [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.7<br>	- [ ] 4.8<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
 
 
 ## 完成
 
 
-
-***
 
 ## 归档
 
@@ -106,6 +105,9 @@ kanban-plugin: basic
 - [ ] MyBatis<br>@{2023-06-19-周一}
 - [ ] Spring<br>- [x] 手写IoC<br>- [x] AoP<br>@{2023-06-19}
 - [ ] 测试
+
+
+
 
 %% kanban:settings
 ```

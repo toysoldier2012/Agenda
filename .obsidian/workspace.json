@@ -20,17 +20,30 @@
             }
           },
           {
-            "id": "fe73360e4486246b",
+            "id": "a16271bf7d854af9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "02 Kanban/Kanban.md"
+                "file": "01 备忘录/搬家换地址.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94d24b9c578e1fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Présentation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,8 +72,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "mysql",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -188,38 +201,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "fe73360e4486246b",
+  "active": "555963fd5c838ead",
   "lastOpenFiles": [
-    "02 Kanban/Achieve/Pad.md",
-    "02 Kanban/Achieve/Insta360.md",
-    "02 Kanban/Achieve/Femme de ménage.md",
-    "02 Kanban/Achieve/钻戒.md",
-    "02 Kanban/Achieve/手机.md",
-    "02 Kanban/Achieve/求婚.md",
-    "02 Kanban/Achieve/全景行车记录仪.md",
-    "02 Kanban/Achieve/回国计划.md",
-    "02 Kanban/Kanban.md",
-    "05 Nas/系统选择.md",
     "05 Nas/软件.md",
-    "05 Nas/密码表.md",
-    "00 Inbox/Présentation.md",
+    "05 Nas/系统选择.md",
     "05 Nas/硬件.md",
+    "05 Nas/密码表.md",
     "05 Nas",
+    "00 Inbox/Présentation.md",
+    "02 Kanban/Kanban.md",
+    "01 备忘录/搬家换地址.md",
     "03 Path of toysoldier/角色规划.md",
     "03 Path of toysoldier/探险.md",
     "03 Path of toysoldier/刷图统计方法论.md",
     "03 Path of toysoldier/流亡经济学.md",
-    "01 备忘录/搬家换地址.md",
     "03 Path of toysoldier/舆图.md",
     "00 Inbox/存钱.md",
     "00 Inbox/存钱 1.md",
@@ -227,6 +232,14 @@
     "00 Inbox/归档/SG.md",
     "00 Inbox/归档/面试.md",
     "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
+    "02 Kanban/Achieve/求婚.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-02-20 Diggers Entretien.md",
+    "02 Kanban/Achieve/Insta360.md",
+    "00 Inbox/归档/Diggers.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-16 面试 Seyos.md",
+    "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-16 面试 easy partner.md",
+    "02 Kanban/Achieve/回国计划.md",
+    "00 Inbox/归档/问公司的问题.md",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "00 Inbox/归档/03 Full Calendar Events/Daily",
