@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "fe73360e4486246b",
+            "id": "f60153758c37d85a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 视频/全景视频后期流程.md",
+                "file": "07 买房/概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 视频/全景视频后期流程.md"
+                "file": "07 买房/概述.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 视频/全景视频后期流程.md",
+                "file": "07 买房/概述.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 视频/全景视频后期流程.md",
+                "file": "07 买房/概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,17 +197,22 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-file-cleaner:清理文件": false
     }
   },
-  "active": "fe73360e4486246b",
+  "active": "f60153758c37d85a",
   "lastOpenFiles": [
-    "01 备忘录/买房.md",
     "02 Kanban/Kanban.md",
+    "07 买房/概述.md",
+    "07 买房/Saint-Maur-des-Fossés.md",
+    "00 Inbox/未命名.md",
+    "Template/买房.md",
+    "07 买房",
+    "06 视频/全景视频后期流程.md",
     "00 Inbox/归档/Présentation.md",
     "00 Inbox/归档/存钱.md",
     "06 视频/照片后期备份流程.md",
-    "06 视频/全景视频后期流程.md",
     "06 视频",
     "02 Kanban/Achieve/Pad.md",
     "02 Kanban/Achieve/Insta360.md",
@@ -227,9 +232,6 @@
     "03 Path of toysoldier/刷图统计方法论.md",
     "03 Path of toysoldier/流亡经济学.md",
     "01 备忘录/搬家换地址.md",
-    "03 Path of toysoldier/舆图.md",
-    "00 Inbox/存钱 1.md",
-    "03 Path of toysoldier/问题.md",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "00 Inbox/归档/03 Full Calendar Events/Daily",
@@ -237,7 +239,6 @@
     "00 Inbox/归档/03 Full Calendar Events",
     "02 Kanban/Achieve",
     "04 经济学",
-    "经济学",
     "Attachment/Pasted image 20230508132656.png",
     "Attachment/Pasted image 20230508131103.png",
     "Attachment/Pasted image 20230508131010.png",
