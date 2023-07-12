@@ -30,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d677dcd669b87951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 备忘录/买房.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Kanban/Kanban.md"
+                "file": "06 视频/全景视频后期流程.md"
               }
             }
           },
@@ -135,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "06 视频/全景视频后期流程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "06 视频/全景视频后期流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,14 +200,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "85e3a05a621f6d44",
+  "active": "fe73360e4486246b",
   "lastOpenFiles": [
-    "00 Inbox/归档/Présentation.md",
     "01 备忘录/买房.md",
+    "02 Kanban/Kanban.md",
+    "00 Inbox/归档/Présentation.md",
     "00 Inbox/归档/存钱.md",
     "06 视频/照片后期备份流程.md",
     "06 视频/全景视频后期流程.md",
-    "02 Kanban/Kanban.md",
     "06 视频",
     "02 Kanban/Achieve/Pad.md",
     "02 Kanban/Achieve/Insta360.md",
