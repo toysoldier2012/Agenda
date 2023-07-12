@@ -28,18 +28,18 @@ kanban-plugin: basic
 
 ## 进行中
 
-- [ ] MVC
 - [ ] itération et récursion
 - [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.7<br>	- [ ] 4.8<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
 
 
 ## 完成
 
+- [ ] MVC
 
 
 ***
 
-## 归档
+## Archive
 
 - [x] 2023-04-26-周三 20:56 找家政 #p1
 - [x] 2023-04-26-周三 20:56 存支票 #p2
