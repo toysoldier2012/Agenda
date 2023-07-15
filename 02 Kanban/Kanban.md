@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] 记录摄影笔记
 - [ ] 私房照片<br>#p2 <br>#凶巴巴 @{2023-08-23-周三}
 - [ ] 凶巴巴影集<br>#p2 #凶巴巴 @{2023-10-11-周三}
 - [ ] 研究一下Roole<br>@{2023-12-01-周五} #p4
@@ -18,12 +19,13 @@ kanban-plugin: basic
 ## 规划中
 
 - [ ] Nas基本配置<br>- [ ] 搞清楚系统可不可以装docker<br>- [ ] 安装docker<br>- [ ] 安装下载器<br>- [ ] 安装测速
-- [ ] 清洗车身<br>- [x] 试试柏油清洗剂<br>- [x] 买油漆稀释剂<br>- [x] 香蕉水<br>- [ ] 涂漆<br>@{2023-07-09-周日}
 - [ ] 自行车报销<br>- [x]  买车筐<br>- [x]  试车筐<br>- [ ]  Certif de velo<br>- [ ]  Facture d'housse<br>- [ ]  完成表格<br><br>@{2023-07-11-周二}
 
 
 ## 进行中
 
+- [ ] 收拾屋子<br>- 桌子<br>- 地板吸/拖
+- [ ] 清洗车身<br>- [x] 试试柏油清洗剂<br>- [x] 买油漆稀释剂<br>- [x] 香蕉水<br>- [ ] 涂漆<br>@{2023-07-16-周日}
 - [ ] itération et récursion
 - [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.7<br>	- [ ] 4.8<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
 - [ ] 摄影/视频<br>- [x] 搞定LRtimelapse<br>- [ ] 鸽子延时<br>- [ ] 回国视频<br>- [ ] 回国照片<br>- [ ] 02/23 荷兰照片视频 <br>- [ ] 去年潜水视频<br>- [ ] 多洛米蒂视频
