@@ -25,13 +25,13 @@ kanban-plugin: basic
 
 ## 进行中
 
-- [ ] itération et récursion
 - [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.7<br>	- [ ] 4.8<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
 - [ ] 摄影/视频<br>- [x] 搞定LRtimelapse<br>- [ ] 鸽子延时<br>- [ ] 回国视频<br>- [ ] 回国照片<br>- [ ] 02/23 荷兰照片视频 <br>- [ ] 去年潜水视频<br>- [ ] 多洛米蒂视频
 
 
 ## 完成
 
+- [ ] itération et récursion
 - [ ] 移民博物馆
 - [ ] 逃离科尔迪茨
 - [ ] MVC
