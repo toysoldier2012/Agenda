@@ -11,8 +11,10 @@
             "id": "c949148149b4badc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,19 +111,13 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
-        }
-      },
-      {
-        "id": "2a539c08307a65fc",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
+          "state": {
+            "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md"
+          }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,7 +133,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a55745657e1311d",
+  "active": "c949148149b4badc",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-07-21 00.45.45.excalidraw.md",
     "Untitled.canvas",
