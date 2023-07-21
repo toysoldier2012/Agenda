@@ -8,47 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b19a191d227e3f9d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 181.61407529449926,
-                  "y": 74.73413738810717,
-                  "zoom": 0.4019978091104747
-                }
-              }
-            }
-          },
-          {
             "id": "c949148149b4badc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-21 00.41.30.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2f223d17544c829b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Untitled.canvas"
-          }
+          "state": {}
         }
       },
       {
