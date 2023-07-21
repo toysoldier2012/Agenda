@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04d52e2e121e7efb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Kanban/Kanban.md"
+                "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md"
               }
             }
           },
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,18 +176,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2b264deff409163",
+            "id": "a37832939698e2d6",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "side-panel-control-view",
               "state": {}
             }
           },
           {
-            "id": "94c5bc19b077e51c",
+            "id": "e2b264deff409163",
             "type": "leaf",
             "state": {
-              "type": "side-panel-control-view",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -189,21 +200,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-file-cleaner:Clean files": false,
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "daily-notes:Ouvrir la note quotidienne": true,
+      "templates:Insérer le modèle": true,
+      "canvas:Créer une nouvelle toile": true,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Ouvrir la vue graphique": false
     }
   },
   "active": "555963fd5c838ead",
   "lastOpenFiles": [
-    "01 备忘录/搬家换地址.md",
+    "Attachment/Pasted Image 20230721093354_574.png",
     "02 Kanban/Kanban.md",
+    "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
+    "Excalidraw",
+    "01 备忘录/搬家换地址.md",
     "07 买房/概述.md",
     "07 买房/Saint-Maur-des-Fossés.md",
     "07 买房",
@@ -229,15 +244,12 @@
     "00 Inbox/存钱 1.md",
     "03 Path of toysoldier/问题.md",
     "00 Inbox/归档/SG.md",
-    "00 Inbox/归档/面试.md",
-    "00 Inbox/归档/03 Full Calendar Events/Work/2023-01-17 面试 CLINKAST.md",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "00 Inbox/归档/03 Full Calendar Events/Daily",
     "00 Inbox/归档/03 Full Calendar Events/Work",
     "00 Inbox/归档/03 Full Calendar Events",
     "02 Kanban/Achieve",
-    "04 经济学",
     "Attachment/Pasted image 20230508132656.png",
     "Attachment/Pasted image 20230508131103.png",
     "Attachment/Pasted image 20230508131010.png",
