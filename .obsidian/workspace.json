@@ -27,22 +27,12 @@
               "state": {
                 "file": "01 备忘录/搬家换地址.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "04d52e2e121e7efb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +46,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aa69c35859db2c5",
+            "id": "7fb8215acd26ecd3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,21 +61,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "b3b952802d2f0475",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -111,16 +93,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "226468fa3c5e82ba",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "555963fd5c838ead",
             "type": "leaf",
             "state": {
@@ -134,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
+                "file": "02 Kanban/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
+                "file": "02 Kanban/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +139,18 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "91dc3e28b4139b15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Kanban/Kanban.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6ca76326f71cadfa",
@@ -200,25 +181,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Ouvrir la palette de commandes": false,
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "daily-notes:Ouvrir la note quotidienne": true,
-      "templates:Insérer le modèle": true,
-      "canvas:Créer une nouvelle toile": true,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-file-cleaner:Clean files": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "graph:Ouvrir la vue graphique": false
+      "graph:Ouvrir la vue graphique": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "555963fd5c838ead",
+  "active": "7fb8215acd26ecd3",
   "lastOpenFiles": [
-    "Attachment/Pasted Image 20230721093354_574.png",
     "02 Kanban/Kanban.md",
-    "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
-    "Excalidraw",
     "01 备忘录/搬家换地址.md",
+    "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
+    "Attachment/Pasted Image 20230721093354_574.png",
+    "Excalidraw",
     "07 买房/概述.md",
     "07 买房/Saint-Maur-des-Fossés.md",
     "07 买房",
@@ -258,7 +237,6 @@
     "Attachment/Pasted image 20230417225715.png",
     "Attachment/Pasted image 20230417225655.png",
     "Attachment/Pasted image 20230417225620.png",
-    "Attachment/Pasted image 20230417223956.png",
-    "Attachment/Pasted image 20230417223751.png"
+    "Attachment/Pasted image 20230417223956.png"
   ]
 }
