@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d93b5f829b1d0a34",
+        "id": "56c6090a19a31f45",
         "type": "tabs",
         "children": [
           {
-            "id": "1ab625aebf4fdcb4",
+            "id": "7d28e1bb38dad453",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "02 Kanban/Kanban.md"
+                "file": "07 买房/买房计划.md"
               }
             }
           }
@@ -71,7 +71,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "648bacc7d0ea8918",
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02 Kanban/Kanban.md",
+            "file": "07 买房/买房计划.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 Kanban/Kanban.md",
+            "file": "07 买房/买房计划.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "02 Kanban/Kanban.md"
+            "file": "07 买房/买房计划.md"
           }
         }
       },
@@ -137,22 +137,29 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Ouvrir la vue graphique": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-file-cleaner:Clean files": false
+      "obsidian-file-cleaner:Clean files": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "417d805acc92208a",
+  "active": "7d28e1bb38dad453",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-07-23 20.41.19.excalidraw.md",
+    "07 买房/买房计划.md",
+    "07 买房/装修估价.md",
+    "07 买房/四处溜达看房子.md",
+    "07 买房/概述.md",
+    "Attachment/Pasted Image 20230723164748_942.png",
+    "07 买房/Saint-Maur-des-Fossés.md",
     "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
+    "02 Kanban/Kanban.md",
     "Excalidraw/Drawing 2023-07-21 00.45.45.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-07-21 00.41.30.excalidraw.md",
-    "Excalidraw",
-    "02 Kanban/Kanban.md"
+    "Excalidraw"
   ]
 }
