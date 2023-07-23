@@ -11,10 +11,8 @@
             "id": "7d28e1bb38dad453",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "07 买房/买房计划.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "07 买房/买房计划.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "07 买房/买房计划.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "07 买房/买房计划.md"
-          }
+          "state": {}
         }
       },
       {
@@ -146,7 +140,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d28e1bb38dad453",
+  "active": "5a55745657e1311d",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-07-23 20.41.19.excalidraw.md",
     "07 买房/买房计划.md",
