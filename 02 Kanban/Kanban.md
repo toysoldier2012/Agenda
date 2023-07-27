@@ -24,13 +24,13 @@ kanban-plugin: basic
 
 ## 进行中
 
-- [ ] 通胀视频笔记<br>房贷视频笔记
 - [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.7<br>	- [ ] 4.8<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
 - [ ] 摄影/视频<br>- [x] 搞定LRtimelapse<br>- [ ] 鸽子延时<br>- [ ] 回国视频<br>- [ ] 回国照片<br>- [ ] 02/23 荷兰照片视频 <br>- [ ] 去年潜水视频<br>- [ ] 多洛米蒂视频
 
 
 ## 完成
 
+- [ ] 通胀视频笔记<br>房贷视频笔记
 - [ ] 清洗车身<br>- [x] 试试柏油清洗剂<br>- [x] 买油漆稀释剂<br>- [x] 香蕉水<br>- [x] 涂漆<br>@{2023-07-09-周日}
 
 
