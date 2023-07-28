@@ -18,6 +18,7 @@ kanban-plugin: basic
 
 ## 规划中
 
+- [ ] 整理笔记<br>- [ ] 01 通用语法<br>- [ ] 02 面向对象
 - [ ] Nas基本配置<br>- [ ] 搞清楚系统可不可以装docker<br>- [ ] 安装docker<br>- [ ] 安装下载器<br>- [ ] 安装测速
 - [ ] 自行车报销<br>- [x]  买车筐<br>- [x]  试车筐<br>- [ ]  Certif de velo<br>- [ ]  Facture d'housse<br>- [ ]  完成表格<br><br>@{2023-07-11-周二}
 
