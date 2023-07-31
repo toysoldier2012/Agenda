@@ -31,8 +31,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1115aa76b4b7284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 经济学/Dictionary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "04 经济学/Dictionary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Kanban/Kanban.md",
+                "file": "04 经济学/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Kanban/Kanban.md"
+                "file": "04 经济学/Dictionary.md"
               }
             }
           }
@@ -172,8 +186,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,21 +194,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Ouvrir la vue graphique": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-file-cleaner:Clean files": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "555963fd5c838ead",
+  "active": "a37832939698e2d6",
   "lastOpenFiles": [
+    "02 Kanban/Kanban.md",
+    "04 经济学/Dictionary.md",
     "Attachment/Pasted Image 20230723222551_933.png",
     "Attachment/Pasted Image 20230723164748_942.png",
-    "02 Kanban/Kanban.md",
     "01 备忘录/搬家换地址.md",
     "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
     "Attachment/Pasted Image 20230721093354_574.png",
@@ -237,7 +251,6 @@
     "Attachment/Pasted image 20230507004857.png",
     "Attachment/Pasted image 20230417225743.png",
     "Attachment/Pasted image 20230417225715.png",
-    "Attachment/Pasted image 20230417225655.png",
-    "Attachment/Pasted image 20230417225620.png"
+    "Attachment/Pasted image 20230417225655.png"
   ]
 }
