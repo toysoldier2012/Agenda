@@ -33,7 +33,7 @@
             }
           },
           {
-            "id": "d1115aa76b4b7284",
+            "id": "d50c860ae6046e1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,7 +186,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,17 +195,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Ouvrir la vue graphique": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-file-cleaner:Clean files": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "a37832939698e2d6",
+  "active": "d50c860ae6046e1a",
   "lastOpenFiles": [
     "02 Kanban/Kanban.md",
     "04 经济学/Dictionary.md",
