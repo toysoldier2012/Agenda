@@ -1,55 +1,33 @@
-#### Action (equity) 
 
-une part de capital d'une entreprise, qui donne le droit a actionnaire, prend la décétion d'entreprise, il y aura dividende si l'entreprise fait des bénéfice
-actionnaire
+# Les bases
+## Le rôle d'une banque d'investissement (corporate & investment banking)
 
-capital social d'entreprise
+SGCIG est une banque d'investissement, qui fournit les services financiers aux clients, comme des opérations de financements, gestion de risque, aussi d'investissement
 
-#### Dividende (dividends) 
+## Risque de marché
 
-verser de l'argent/prime
+Ce risque lie au variation du marché qui peuvent porter la perte de portefeuille sur des actifs financier
 
-#### Obligation (bond) 
+## Action (equity) et obligation (bond)
 
-une part la tete d'entreprise/etat
+Une part de capital d'une entreprise, qui donne des droit à l'actionnaire, dans certains condition, les actionnaires peuvent prend la décision d'une entreprise, aussi avoir les dividendes/verser de la prime à la fin d'année, si l'entreprise fait des bénéfice 
 
-Une obligation (bond) est un titre de créance émis par une entreprise, un gouvernement ou une entité publique.
+Obligation, une part de titre de créance d'une entreprise/état, il est moins de variation, moins d'bénéfice que action, mais plus sécurité et plus stable
 
-pour financer ces activités
+Ces deux sont pour financer ces activités, pour se développer au futur
 
-un titre de créance
+## Produits dérivés (derivatives) : option, future/forward, swap
 
-plus de risque, 
+Se protéger contre les risque, gagner des l'argent
 
-#### Produits dérivés (derivatives) : option, future/forward, swap
+# Les indicateurs
 
-se protéger contre les risque, gagner des l'argent
+## P&L (profit and loss) 
 
-#### P&L (profit and loss) 
+## Value at risk
 
-#### Value at risk
+La perte maximale potentielle que le portefeuille pourrait subir dans un certain laps de temps avec un certain niveau de confiance 95-99
 
-Il représente la perte maximale potentielle d'un ensemble de produit dans certain niveau de confiance
+## Greeks / sensibilités
 
-la perte maximale potentielle que le portefeuille pourrait subir dans un certain laps de temps avec un certain niveau de confiance 95-99
-
-dans ce pourcentage de probabilité au maximum de perte ce montant
-
-#### Greeks / sensibilités
-
-#### Le rôle d'une banque d'investissement (corporate & investment banking)
-
-La crise économique
-
-
-action et derive action
-
-
-variation de prix de produit finance comme taux consequence de portefeuille de traiteur, pour cela on calcule les différent indicate de risque comme la var
-
-
-fin d'entretien
-
-remercier
-remontrer le motivation tech/finance
-montrer confiance auto formation/
+Ils sont pour mesurer la sensibilité du prix d'une option à différents facteurs comme la volatilité, le temp, le prix, le taux d'intérêt
