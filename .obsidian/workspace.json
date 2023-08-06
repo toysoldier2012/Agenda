@@ -10,14 +10,13 @@
           {
             "id": "d1115aa76b4b7284",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "05 Nas/硬件.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "file": "02 Kanban/Kanban.md"
+              },
+              "pinned": true
             }
           }
         ]
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Nas/硬件.md",
+                "file": "02 Kanban/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Nas/硬件.md",
+                "file": "02 Kanban/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Nas/硬件.md"
+                "file": "02 Kanban/Kanban.md"
               }
             }
           }
@@ -180,6 +179,7 @@
   },
   "active": "d1115aa76b4b7284",
   "lastOpenFiles": [
+    "05 Nas/硬件.md",
     "02 Kanban/Kanban.md",
     "05 Nas/系统.md",
     "01 备忘录/搬家换地址.md",
@@ -201,7 +201,6 @@
     "01 备忘录/买房.md",
     "00 Inbox/归档/存钱.md",
     "00 Inbox/归档/Présentation.md",
-    "05 Nas/硬件.md",
     "05 Nas",
     "00 Inbox/Présentation.md",
     "03 Path of toysoldier/角色规划.md",
