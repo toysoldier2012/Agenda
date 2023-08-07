@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1115aa76b4b7284",
+            "id": "85e3a05a621f6d44",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,6 +17,19 @@
                 "file": "02 Kanban/Kanban.md"
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "92804e759fc4591f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Nas/硬件.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "exFAT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +172,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,19 +187,19 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-file-cleaner:Clean files": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1115aa76b4b7284",
+  "active": "85e3a05a621f6d44",
   "lastOpenFiles": [
     "05 Nas/硬件.md",
+    "05 Nas/软件.md",
     "02 Kanban/Kanban.md",
+    "Attachment/Pasted image 20230807111541.png",
+    "04 经济学/Dictionary.md",
     "05 Nas/系统.md",
     "01 备忘录/搬家换地址.md",
-    "05 Nas/密码表.md",
-    "05 Nas/软件.md",
-    "04 经济学/Dictionary.md",
     "Attachment/Pasted Image 20230723222551_933.png",
     "Attachment/Pasted Image 20230723164748_942.png",
     "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
@@ -201,6 +215,8 @@
     "01 备忘录/买房.md",
     "00 Inbox/归档/存钱.md",
     "00 Inbox/归档/Présentation.md",
+    "05 Nas/系统选择.md",
+    "05 Nas/密码表.md",
     "05 Nas",
     "00 Inbox/Présentation.md",
     "03 Path of toysoldier/角色规划.md",
@@ -210,8 +226,6 @@
     "03 Path of toysoldier/舆图.md",
     "00 Inbox/存钱.md",
     "00 Inbox/存钱 1.md",
-    "03 Path of toysoldier/问题.md",
-    "00 Inbox/归档/SG.md",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "00 Inbox/归档/03 Full Calendar Events/Daily",
@@ -223,7 +237,6 @@
     "Attachment/Pasted image 20230508131010.png",
     "Attachment/Pasted image 20230507004857.png",
     "Attachment/Pasted image 20230417225743.png",
-    "Attachment/Pasted image 20230417225715.png",
-    "Attachment/Pasted image 20230417225655.png"
+    "Attachment/Pasted image 20230417225715.png"
   ]
 }
