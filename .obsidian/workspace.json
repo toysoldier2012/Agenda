@@ -18,19 +18,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "92804e759fc4591f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Nas/硬件.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -193,11 +180,12 @@
   },
   "active": "85e3a05a621f6d44",
   "lastOpenFiles": [
+    "01 备忘录/买房.md",
+    "02 Kanban/Kanban.md",
+    "04 经济学/Dictionary.md",
     "05 Nas/硬件.md",
     "05 Nas/软件.md",
-    "02 Kanban/Kanban.md",
     "Attachment/Pasted image 20230807111541.png",
-    "04 经济学/Dictionary.md",
     "05 Nas/系统.md",
     "01 备忘录/搬家换地址.md",
     "Attachment/Pasted Image 20230723222551_933.png",
@@ -212,7 +200,6 @@
     "06 视频/全景视频后期流程.md",
     "06 视频/9月潜水.md",
     "06 视频",
-    "01 备忘录/买房.md",
     "00 Inbox/归档/存钱.md",
     "00 Inbox/归档/Présentation.md",
     "05 Nas/系统选择.md",
