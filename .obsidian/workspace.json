@@ -18,22 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c1a57acec88eec68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Kanban/Kanban.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1a57acec88eec68",
+  "active": "555963fd5c838ead",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "02 Kanban/Kanban.md",
