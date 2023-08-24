@@ -27,7 +27,8 @@ kanban-plugin: basic
 - [ ] 淘宝购物<br>- [ ] 数据线<br>- [ ] 硬盘
 - [ ] 办PACS<br>- [ ] 出生证明 + 公证件
 - [ ] 整理笔记<br>- [ ] 01 通用语法<br>- [ ] 02 面向对象
-- [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [ ] 4<br>	- [ ] 4.7<br>	- [ ] 4.8<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
+- [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.5.6<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
+
 
 
 ## 完成
