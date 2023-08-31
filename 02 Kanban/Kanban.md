@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] 回国照片<br>@{2023-07-02-周日}
-- [ ] 私房照片<br>#p2 <br>#凶巴巴 @{2023-08-23-周三}
 - [ ] 凶巴巴影集<br>#p2 #凶巴巴 @{2023-10-11-周三}
 - [ ] 研究一下Roole<br>@{2023-12-01-周五} #p4
 - [ ] 山水影集
@@ -19,28 +17,32 @@ kanban-plugin: basic
 ## 规划中
 
 - [ ] Nas基本配置<br>- [ ] 搞清楚系统可不可以装docker<br>- [ ] 安装docker<br>- [ ] 安装下载器<br>- [ ] 安装测速<br>- [ ] Docker网络模式<br>- [x] 决定是否要买硬盘
-- [ ] 摄影/视频<br>- [x] 搞定LRtimelapse<br>- [x] 鸽子延时<br>	- [ ] 挑9张照片<br>	- [x] 阳台打扫前<br>	- [ ] 打扫后照片<br>	- [ ] 鸽子照片整理完毕<br>	- [ ] 发朋友圈<br>- [ ] 回国视频<br>- [ ] 回国照片<br>- [ ] 02/23 荷兰照片视频 <br>- [ ] 去年潜水视频<br>- [ ] 多洛米蒂视频
 
 
 ## 进行中
 
-- [ ] 整理笔记<br>- [ ] 01 通用语法<br>- [ ] 02 面向对象
-- [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.5.6<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
+- [ ] RDV<br>- [ ] 牙医<br>- [ ] IRM医生
+- [ ] Java核心技术<br>- [ ] 完成抄录<br>- [ ] 继续阅读第三章
+- [ ] 摄影/视频<br>- [x] 搞定LRtimelapse<br>- [x] 鸽子延时<br>	- [ ] 挑9张照片<br>	- [x] 阳台打扫前<br>	- [ ] 打扫后照片<br>	- [ ] 鸽子照片整理完毕<br>	- [ ] 发朋友圈<br>- [ ] 回国视频<br>- [ ] 回国照片<br>- [ ] 02/23 荷兰照片视频 <br>- [ ] 去年潜水视频<br>- [ ] 多洛米蒂视频
 
 
 ## 完成
 
-- [ ] 办PACS<br>- [ ] 出生证明 + 公证件
-- [ ] 淘宝购物<br>- [x] 数据线<br>- [x] 硬盘
-- [ ] 自行车报销<br>- [x]  买车筐<br>- [x]  试车筐<br>- [x]  Certif de velo<br>- [x]  Facture d'housse<br>- [x]  完成表格<br><br>@{2023-07-11-周二}
-- [ ] 通胀视频笔记<br>房贷视频笔记
-- [ ] 清洗车身<br>- [x] 试试柏油清洗剂<br>- [x] 买油漆稀释剂<br>- [x] 香蕉水<br>- [x] 涂漆<br>@{2023-07-09-周日}
 
 
 ***
 
 ## Archive
 
+- [ ] 私房照片<br>#p2 <br>#凶巴巴 @{2023-08-23-周三}
+- [ ] 回国照片<br>@{2023-07-02-周日}
+- [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.5.6<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
+- [ ] 整理笔记<br>- [ ] 01 通用语法<br>- [ ] 02 面向对象
+- [ ] 办PACS<br>- [ ] 出生证明 + 公证件
+- [ ] 淘宝购物<br>- [x] 数据线<br>- [x] 硬盘
+- [ ] 自行车报销<br>- [x]  买车筐<br>- [x]  试车筐<br>- [x]  Certif de velo<br>- [x]  Facture d'housse<br>- [x]  完成表格<br><br>@{2023-07-11-周二}
+- [ ] 通胀视频笔记<br>房贷视频笔记
+- [ ] 清洗车身<br>- [x] 试试柏油清洗剂<br>- [x] 买油漆稀释剂<br>- [x] 香蕉水<br>- [x] 涂漆<br>@{2023-07-09-周日}
 - [ ] itération et récursion
 - [ ] 移民博物馆
 - [ ] 逃离科尔迪茨

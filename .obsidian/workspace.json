@@ -159,8 +159,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "555963fd5c838ead",
+  "active": "a37832939698e2d6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "02 Kanban/Kanban.md",
