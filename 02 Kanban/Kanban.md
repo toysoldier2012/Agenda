@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] Nas基本配置<br>- [ ] 搞清楚系统可不可以装docker<br>- [ ] 安装docker<br>- [ ] 安装下载器<br>- [ ] 安装测速<br>- [ ] Docker网络模式<br>- [x] 决定是否要买硬盘
+- [ ] 摄影/视频<br>- [x] 搞定LRtimelapse<br>- [x] 鸽子延时<br>	- [ ] 挑9张照片<br>	- [x] 阳台打扫前<br>	- [ ] 打扫后照片<br>	- [ ] 鸽子照片整理完毕<br>	- [ ] 发朋友圈<br>- [ ] 回国视频<br>- [ ] 回国照片<br>- [ ] 02/23 荷兰照片视频 <br>- [ ] 去年潜水视频<br>- [ ] 多洛米蒂视频
 - [ ] 凶巴巴影集<br>#p2 #凶巴巴 @{2023-10-11-周三}
 - [ ] 研究一下Roole<br>@{2023-12-01-周五} #p4
 - [ ] 山水影集
@@ -16,20 +18,21 @@ kanban-plugin: basic
 
 ## 规划中
 
-- [ ] Nas基本配置<br>- [ ] 搞清楚系统可不可以装docker<br>- [ ] 安装docker<br>- [ ] 安装下载器<br>- [ ] 安装测速<br>- [ ] Docker网络模式<br>- [x] 决定是否要买硬盘
+- [ ] Algorithm<br><br>[Udemy](https://diggers.udemy.com/course/java-data-structures-and-algorithms-masterclass/learn/lecture/25320718?start=30#overview)
+- [ ] ReactJS
 
 
 ## 进行中
 
-
+- [ ] Algorithme<br><br>[LeetCode](https://leetcode.com/studyplan/top-interview-150/)<br><br>@{2023-10-29}
+- [ ] Spring Boot<br><br>[Udemy](https://diggers.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5116996?start=0#overview)
+- [ ] 大话设计模式<br>- [x] 第一章<br>- [ ] 第二章<br>- [ ] 第三章<br>- [ ] 第四章<br>- [ ] 第五章<br>- [ ] 第六章<br>- [ ] 第七章<br>- [ ] 第八章<br>- [ ] 第九章<br>- [ ] 第十章<br>- [ ] 第十一章<br>- [ ] 第十二章<br>- [ ] 第十三章<br>- [ ] 第十四章<br>- [ ] 第十五章<br>- [ ] 第十六章<br>- [ ] 第十七章<br>- [ ] 第十八章<br>- [ ] 第十九章<br>- [ ] 第二十章<br>- [ ] 第二十一章<br>- [ ] 第二十二章<br>- [ ] 第二十三章<br>- [ ] 第二十四章<br>- [ ] 第二十五章<br>- [ ] 第二十六章<br>- [ ] 第二十七章<br>- [ ] 第二十八章<br>- [ ] 第二十九章
 - [ ] RDV<br>- [ ] 牙医<br>- [ ] IRM医生
-- [ ] Java核心技术<br>- [ ] 完成抄录<br>- [ ] 继续阅读第三章
-- [ ] 摄影/视频<br>- [x] 搞定LRtimelapse<br>- [x] 鸽子延时<br>	- [ ] 挑9张照片<br>	- [x] 阳台打扫前<br>	- [ ] 打扫后照片<br>	- [ ] 鸽子照片整理完毕<br>	- [ ] 发朋友圈<br>- [ ] 回国视频<br>- [ ] 回国照片<br>- [ ] 02/23 荷兰照片视频 <br>- [ ] 去年潜水视频<br>- [ ] 多洛米蒂视频
-
 
 
 ## 完成
 
+- [ ] Java核心技术<br>- [x] 完成抄录<br>- [x] 继续阅读第三章
 
 
 ***

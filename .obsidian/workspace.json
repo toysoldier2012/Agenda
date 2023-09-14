@@ -8,32 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85e3a05a621f6d44",
+            "id": "e85726f4b30612ce",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "02 Kanban/Kanban.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "02 Kanban/Kanban.md"
               },
               "pinned": true
             }
           },
           {
-            "id": "921b815bd31c2e15",
+            "id": "368e87962e3a184f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "kanban",
               "state": {
-                "file": "02 Kanban/Kanban.md",
-                "staged": false
+                "file": "02 Kanban/Kanban.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +148,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "6ca76326f71cadfa",
@@ -187,16 +185,18 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-file-cleaner:Clean files": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "85e3a05a621f6d44",
+  "active": "368e87962e3a184f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "00 Inbox/Sans titre.md",
     "02 Kanban/Kanban.md",
-    "01 备忘录/买房.md",
+    "06 视频/9月潜水.md",
+    "05 Nas/密码表.md",
     "04 经济学/Dictionary.md",
+    "conflict-files-obsidian-git.md",
+    "01 备忘录/买房.md",
     "05 Nas/硬件.md",
     "05 Nas/软件.md",
     "Attachment/Pasted image 20230807111541.png",
@@ -212,12 +212,10 @@
     "07 买房",
     "06 视频/照片后期备份流程.md",
     "06 视频/全景视频后期流程.md",
-    "06 视频/9月潜水.md",
     "06 视频",
     "00 Inbox/归档/存钱.md",
     "00 Inbox/归档/Présentation.md",
     "05 Nas/系统选择.md",
-    "05 Nas/密码表.md",
     "05 Nas",
     "00 Inbox/Présentation.md",
     "03 Path of toysoldier/角色规划.md",
@@ -226,7 +224,6 @@
     "03 Path of toysoldier/流亡经济学.md",
     "03 Path of toysoldier/舆图.md",
     "00 Inbox/存钱.md",
-    "00 Inbox/存钱 1.md",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "00 Inbox/归档/03 Full Calendar Events/Daily",
