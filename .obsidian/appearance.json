@@ -4,5 +4,6 @@
   "nativeMenus": false,
   "translucency": true,
   "cssTheme": "Blue Topaz",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSize": 14
 }
