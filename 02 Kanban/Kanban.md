@@ -23,9 +23,8 @@ kanban-plugin: basic
 
 ## 进行中
 
-- [ ] Javacript<br><br>[Udemy](https://diggers.udemy.com/course/javascript-flash-course-beginner-to-advanced/learn/lecture/36205244#overview)<br><br>@{2023-09-18}
 - [ ] ReactJS<br><br>[Udemy](https://diggers.udemy.com/course/react-redux/learn/lecture/12531044#overview)
-- [ ] Algorithme<br><br>2h/j<br><br>[LeetCode](https://leetcode.com/studyplan/top-interview-150/)<br><br>@{2023-10-29}
+- [ ] Algorithme<br><br><br>[LeetCode](https://leetcode.com/studyplan/top-interview-150/)<br>2h/j - 26/150<br><br>@{2023-10-29}
 - [ ] Spring Boot<br><br>[Udemy](https://diggers.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5116996?start=0#overview)
 - [ ] 大话设计模式<br>- [x] 第一章<br>- [x] 第二章<br>- [ ] 第三章<br>- [ ] 第四章<br>- [ ] 第五章<br>- [ ] 第六章<br>- [ ] 第七章<br>- [ ] 第八章<br>- [ ] 第九章<br>- [ ] 第十章<br>- [ ] 第十一章<br>- [ ] 第十二章<br>- [ ] 第十三章<br>- [ ] 第十四章<br>- [ ] 第十五章<br>- [ ] 第十六章<br>- [ ] 第十七章<br>- [ ] 第十八章<br>- [ ] 第十九章<br>- [ ] 第二十章<br>- [ ] 第二十一章<br>- [ ] 第二十二章<br>- [ ] 第二十三章<br>- [ ] 第二十四章<br>- [ ] 第二十五章<br>- [ ] 第二十六章<br>- [ ] 第二十七章<br>- [ ] 第二十八章<br>- [ ] 第二十九章
 - [ ] RDV<br>- [ ] 牙医<br>- [ ] IRM医生
@@ -33,6 +32,7 @@ kanban-plugin: basic
 
 ## 完成
 
+- [ ] Javacript<br><br>[Udemy](https://diggers.udemy.com/course/javascript-flash-course-beginner-to-advanced/learn/lecture/36205244#overview)<br><br>@{2023-09-18}
 - [ ] Java核心技术<br>- [x] 完成抄录<br>- [x] 继续阅读第三章
 
 

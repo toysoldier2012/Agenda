@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e85726f4b30612ce",
+            "id": "85e3a05a621f6d44",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -159,7 +159,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,23 +177,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e85726f4b30612ce",
+  "active": "85e3a05a621f6d44",
   "lastOpenFiles": [
-    "00 Inbox/Plugin Settings/Easy typing.md",
-    "02 Kanban/Kanban.md",
-    "00 Inbox/Plugin Settings",
-    "00 Inbox/Plugin Settings/Style settings.md",
     "00 Inbox/style-settings.json",
-    "01 备忘录/买房.md",
-    "01 备忘录/搬家换地址.md",
-    "06 视频/9月潜水.md",
-    "05 Nas/密码表.md",
-    "04 经济学/Dictionary.md",
+    "00 Inbox/Plugin Settings/Style settings.md",
+    "00 Inbox/Plugin Settings/Easy typing.md",
+    "00 Inbox/Plugin Settings",
     "conflict-files-obsidian-git.md",
+    "02 Kanban/Kanban.md",
+    "01 备忘录/买房.md",
+    "04 经济学/Dictionary.md",
     "05 Nas/硬件.md",
     "05 Nas/软件.md",
     "Attachment/Pasted image 20230807111541.png",
     "05 Nas/系统.md",
+    "01 备忘录/搬家换地址.md",
     "Attachment/Pasted Image 20230723222551_933.png",
     "Attachment/Pasted Image 20230723164748_942.png",
     "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
@@ -203,10 +202,12 @@
     "07 买房",
     "06 视频/照片后期备份流程.md",
     "06 视频/全景视频后期流程.md",
+    "06 视频/9月潜水.md",
     "06 视频",
     "00 Inbox/归档/存钱.md",
     "00 Inbox/归档/Présentation.md",
     "05 Nas/系统选择.md",
+    "05 Nas/密码表.md",
     "05 Nas",
     "00 Inbox/Présentation.md",
     "03 Path of toysoldier/角色规划.md",
@@ -217,6 +218,7 @@
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "00 Inbox/归档/03 Full Calendar Events/Daily",
     "00 Inbox/归档/03 Full Calendar Events/Work",
+    "00 Inbox/归档/03 Full Calendar Events",
     "Attachment/Pasted image 20230508132656.png",
     "Attachment/Pasted image 20230508131103.png",
     "Attachment/Pasted image 20230508131010.png",
