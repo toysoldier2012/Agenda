@@ -23,6 +23,8 @@ kanban-plugin: basic
 
 ## 进行中
 
+- [ ] Restful api
+- [ ] test
 - [ ] ReactJS<br><br>[Udemy](https://diggers.udemy.com/course/react-redux/learn/lecture/12531044#overview)
 - [ ] Algorithme<br><br><br>[LeetCode](https://leetcode.com/studyplan/top-interview-150/)<br>2h/j - 26/150<br><br>@{2023-10-29}
 - [ ] Spring Boot<br><br>[Udemy](https://diggers.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5116996?start=0#overview)
