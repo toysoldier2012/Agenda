@@ -20,25 +20,12 @@
             }
           },
           {
-            "id": "a6e862c50a5f845b",
+            "id": "d56c017976cfab95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 经济学/大空头.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9f90fe83b0de73f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Path of toysoldier/流亡经济学.md",
+                "file": "05 Nas/密码表.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +33,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Path of toysoldier/流亡经济学.md",
+                "file": "05 Nas/密码表.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Path of toysoldier/流亡经济学.md",
+                "file": "05 Nas/密码表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Path of toysoldier/流亡经济学.md"
+                "file": "05 Nas/密码表.md"
               }
             }
           }
@@ -204,11 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7fb8215acd26ecd3",
+  "active": "d56c017976cfab95",
   "lastOpenFiles": [
-    "03 Path of toysoldier/角色规划.md",
     "02 Kanban/Kanban.md",
     "04 经济学/大空头.md",
+    "03 Path of toysoldier/流亡经济学.md",
+    "03 Path of toysoldier/角色规划.md",
     "00 Inbox/归档/SG.md",
     "00 Inbox/归档/Présentation.md",
     "00 Inbox/归档/Diggers.md",
@@ -240,7 +228,6 @@
     "06 视频/9月潜水.md",
     "06 视频",
     "05 Nas/系统选择.md",
-    "05 Nas/密码表.md",
     "05 Nas",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
     "00 Inbox/归档/03 Full Calendar Events/Sleep",
