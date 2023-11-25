@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Nas/系统.md",
+                "file": "01 备忘录/买房.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Nas/系统.md",
+                "file": "01 备忘录/买房.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Nas/系统.md",
+                "file": "01 备忘录/买房.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Nas/系统.md"
+                "file": "01 备忘录/买房.md"
               }
             }
           }
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +194,10 @@
   },
   "active": "d56c017976cfab95",
   "lastOpenFiles": [
-    "05 Nas/软件.md",
+    "Attachment/Pasted image 20231125223411.png",
     "05 Nas/密码表.md",
+    "05 Nas/软件.md",
+    "05 Nas/系统.md",
     "02 Kanban/Kanban.md",
     "04 经济学/大空头.md",
     "03 Path of toysoldier/流亡经济学.md",
@@ -215,7 +218,6 @@
     "conflict-files-obsidian-git.md",
     "05 Nas/硬件.md",
     "Attachment/Pasted image 20230807111541.png",
-    "05 Nas/系统.md",
     "Attachment/Pasted Image 20230723222551_933.png",
     "Attachment/Pasted Image 20230723164748_942.png",
     "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
@@ -226,7 +228,6 @@
     "07 买房",
     "06 视频/照片后期备份流程.md",
     "06 视频/全景视频后期流程.md",
-    "06 视频/9月潜水.md",
     "06 视频",
     "05 Nas",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
