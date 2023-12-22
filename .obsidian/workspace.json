@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 备忘录/买房.md",
+                "file": "04 经济学/Dictionary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 备忘录/买房.md",
+                "file": "04 经济学/Dictionary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 备忘录/买房.md",
+                "file": "04 经济学/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 备忘录/买房.md"
+                "file": "04 经济学/Dictionary.md"
               }
             }
           }
@@ -194,6 +194,7 @@
   },
   "active": "d56c017976cfab95",
   "lastOpenFiles": [
+    "01 备忘录/买房.md",
     "Attachment/Pasted image 20231125223411.png",
     "05 Nas/密码表.md",
     "05 Nas/软件.md",
@@ -210,7 +211,6 @@
     "00 Inbox/归档/存钱.md",
     "04 经济学/Dictionary.md",
     "01 备忘录/搬家换地址.md",
-    "01 备忘录/买房.md",
     "00 Inbox/style-settings.json",
     "00 Inbox/Plugin Settings/Style settings.md",
     "00 Inbox/Plugin Settings/Easy typing.md",
@@ -238,7 +238,6 @@
     "Attachment/Pasted image 20230508131103.png",
     "Attachment/Pasted image 20230508131010.png",
     "Attachment/Pasted image 20230507004857.png",
-    "Attachment/Pasted image 20230417225743.png",
-    "Attachment/Pasted image 20230417225715.png"
+    "Attachment/Pasted image 20230417225743.png"
   ]
 }
