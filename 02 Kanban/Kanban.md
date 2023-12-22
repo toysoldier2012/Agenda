@@ -6,10 +6,11 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] Algorithm<br><br>[Udemy](https://diggers.udemy.com/course/java-data-structures-and-algorithms-masterclass/learn/lecture/25320718?start=30#overview)
+- [ ] Spring Boot<br><br>[Udemy](https://diggers.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5116996?start=0#overview)
 - [ ] Nas基本配置<br>- [ ] 搞清楚系统可不可以装docker<br>- [ ] 安装docker<br>- [ ] 安装下载器<br>- [ ] 安装测速<br>- [ ] Docker网络模式<br>- [x] 决定是否要买硬盘
 - [ ] 摄影/视频<br>- [x] 搞定LRtimelapse<br>- [x] 鸽子延时<br>	- [ ] 挑9张照片<br>	- [x] 阳台打扫前<br>	- [ ] 打扫后照片<br>	- [ ] 鸽子照片整理完毕<br>	- [ ] 发朋友圈<br>- [ ] 回国视频<br>- [ ] 回国照片<br>- [ ] 02/23 荷兰照片视频 <br>- [ ] 去年潜水视频<br>- [ ] 多洛米蒂视频
 - [ ] 凶巴巴影集<br>#p2 #凶巴巴 @{2023-10-11-周三}
-- [ ] 研究一下Roole<br>@{2023-12-01-周五} #p4
 - [ ] 山水影集
 - [ ] 射击<br>#p3 #赵友珅 #凶巴巴 #郑乐
 - [ ] 沙发套<br>#p4 #生活
@@ -18,30 +19,29 @@ kanban-plugin: basic
 
 ## 规划中
 
-- [ ] Algorithm<br><br>[Udemy](https://diggers.udemy.com/course/java-data-structures-and-algorithms-masterclass/learn/lecture/25320718?start=30#overview)
 
 
 ## 进行中
 
-- [ ] Restful api
-- [ ] test
-- [ ] ReactJS<br><br>[Udemy](https://diggers.udemy.com/course/react-redux/learn/lecture/12531044#overview)
-- [ ] Algorithme<br><br><br>[LeetCode](https://leetcode.com/studyplan/top-interview-150/)<br>2h/j - 26/150<br><br>@{2023-10-29}
-- [ ] Spring Boot<br><br>[Udemy](https://diggers.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5116996?start=0#overview)
-- [ ] 大话设计模式<br>- [x] 第一章<br>- [x] 第二章<br>- [ ] 第三章<br>- [ ] 第四章<br>- [ ] 第五章<br>- [ ] 第六章<br>- [ ] 第七章<br>- [ ] 第八章<br>- [ ] 第九章<br>- [ ] 第十章<br>- [ ] 第十一章<br>- [ ] 第十二章<br>- [ ] 第十三章<br>- [ ] 第十四章<br>- [ ] 第十五章<br>- [ ] 第十六章<br>- [ ] 第十七章<br>- [ ] 第十八章<br>- [ ] 第十九章<br>- [ ] 第二十章<br>- [ ] 第二十一章<br>- [ ] 第二十二章<br>- [ ] 第二十三章<br>- [ ] 第二十四章<br>- [ ] 第二十五章<br>- [ ] 第二十六章<br>- [ ] 第二十七章<br>- [ ] 第二十八章<br>- [ ] 第二十九章
-- [ ] RDV<br>- [ ] 牙医<br>- [ ] IRM医生
+- [ ] Astek问题<br>- [ ] 去公司看看<br>- [ ] 电脑<br>- [ ] 填写frais<br>- [ ] 填写releve d‘activities<br>- [ ] 各种文件
 
 
 ## 完成
 
-- [ ] Javacript<br><br>[Udemy](https://diggers.udemy.com/course/javascript-flash-course-beginner-to-advanced/learn/lecture/36205244#overview)<br><br>@{2023-09-18}
-- [ ] Java核心技术<br>- [x] 完成抄录<br>- [x] 继续阅读第三章
 
 
 ***
 
 ## Archive
 
+- [ ] Restful api
+- [ ] test
+- [ ] Javacript<br><br>[Udemy](https://diggers.udemy.com/course/javascript-flash-course-beginner-to-advanced/learn/lecture/36205244#overview)<br><br>@{2023-09-18}
+- [ ] RDV<br>- [ ] 牙医<br>- [ ] IRM医生
+- [ ] ReactJS<br><br>[Udemy](https://diggers.udemy.com/course/react-redux/learn/lecture/12531044#overview)
+- [ ] 研究一下Roole<br>@{2023-12-01-周五} #p4
+- [ ] Algorithme<br><br><br>[LeetCode](https://leetcode.com/studyplan/top-interview-150/)<br>2h/j - 26/150<br><br>@{2023-10-29}
+- [ ] Java核心技术<br>- [x] 完成抄录<br>- [x] 继续阅读第三章
 - [ ] 私房照片<br>#p2 <br>#凶巴巴 @{2023-08-23-周三}
 - [ ] 回国照片<br>@{2023-07-02-周日}
 - [ ] 通读Developpement java<br><br>https://www.jmdoudoux.fr/java/dej/indexavecframes.htm<br><br>- [x] 3<br>- [x] 4<br>	- [ ] 4.5.6<br>- [ ] 14<br>- [ ] 22<br>- [ ] 9<br>- [ ] 10<br>- [ ] 36<br>- [ ] 12<br>- [ ] 17<br>- [ ] L'utilisation de documents XML et JSON
