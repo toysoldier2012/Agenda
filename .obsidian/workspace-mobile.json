@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56c6090a19a31f45",
+        "id": "c91b4ae2339a5c66",
         "type": "tabs",
         "children": [
           {
-            "id": "7d28e1bb38dad453",
+            "id": "17a67a2237fca8ad",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "07 买房/买房计划.md"
+                "file": "买房/施工流程1.md"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "07 买房/买房计划.md",
+            "file": "买房/施工流程1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "07 买房/买房计划.md",
+            "file": "买房/施工流程1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "07 买房/买房计划.md"
+            "file": "买房/施工流程1.md"
           }
         }
       },
@@ -136,20 +136,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
       "graph:Ouvrir la vue graphique": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-file-cleaner:Clean files": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7d28e1bb38dad453",
+  "active": "17a67a2237fca8ad",
   "lastOpenFiles": [
-    "07 买房/装修估价.md",
     "02 Kanban/Kanban.md",
+    "01 备忘录/搬家换地址.md",
+    "00 Inbox/Plugin Settings/Style settings.md",
+    "00 Inbox/Plugin Settings/Easy typing.md",
+    "03 Path of toysoldier/角色规划.md",
+    "买房/施工流程2.md",
+    "买房/施工流程1.md",
+    "05 Nas/密码表.md",
+    "买房/买房.md",
+    "买房/叶子买房.md",
+    "买房",
+    "Attachment/Pasted image 20231125223411.png",
+    "00 Inbox/Plugin Settings",
+    "00 Inbox/style-settings.json",
+    "07 买房/装修估价.md",
     "07 买房/Saint-Maur-des-Fossés.md",
     "07 买房/买房计划.md",
     "Attachment/Pasted Image 20230723222551_933.png",

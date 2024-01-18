@@ -23,7 +23,7 @@ kanban-plugin: basic
 
 ## 进行中
 
-- [ ] Astek问题<br>- [ ] 去公司看看<br>- [ ] 电脑<br>- [ ] 填写frais<br>- [ ] 填写releve d‘activities<br>- [ ] 各种文件
+- [ ] Astek问题<br>- [ ] 去公司看看<br>- [x] 电脑<br>- [ ] 填写frais<br>- [ ] 填写releve d‘activities<br>- [ ] 各种文件
 
 
 ## 完成
