@@ -4,20 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c91b4ae2339a5c66",
+        "id": "eae11e60f59d6bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "17a67a2237fca8ad",
+            "id": "8a080b7dfa260988",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "买房/叶子买房.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "file": "02 Kanban/Kanban.md"
+              },
+              "pinned": true
             }
           }
         ]
@@ -86,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "买房/叶子买房.md",
+            "file": "02 Kanban/Kanban.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "买房/叶子买房.md",
+            "file": "02 Kanban/Kanban.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "买房/叶子买房.md"
+            "file": "02 Kanban/Kanban.md"
           }
         }
       },
@@ -124,14 +123,6 @@
         "type": "leaf",
         "state": {
           "type": "side-panel-control-view",
-          "state": {}
-        }
-      },
-      {
-        "id": "417d805acc92208a",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
           "state": {}
         }
       }
@@ -148,7 +139,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "17a67a2237fca8ad",
+  "active": "8a080b7dfa260988",
   "lastOpenFiles": [
     "买房/叶子买房.md",
     "买房/买房_1.md",
