@@ -11,9 +11,12 @@
             "id": "17a67a2237fca8ad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "买房/施工流程1.md"
+                "file": "买房/叶子买房.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "买房/施工流程1.md",
+            "file": "买房/叶子买房.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "买房/施工流程1.md",
+            "file": "买房/叶子买房.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "买房/施工流程1.md"
+            "file": "买房/叶子买房.md"
           }
         }
       },
@@ -147,16 +150,20 @@
   },
   "active": "17a67a2237fca8ad",
   "lastOpenFiles": [
+    "买房/叶子买房.md",
+    "买房/买房_1.md",
     "02 Kanban/Kanban.md",
+    "03 Path of toysoldier/角色规划_1.md",
     "01 备忘录/搬家换地址.md",
-    "00 Inbox/Plugin Settings/Style settings.md",
+    "01 备忘录/搬家换地址_1.md",
+    "00 Inbox/Plugin Settings/Easy typing_1.md",
     "00 Inbox/Plugin Settings/Easy typing.md",
+    "买房/施工流程1.md",
+    "00 Inbox/Plugin Settings/Style settings.md",
     "03 Path of toysoldier/角色规划.md",
     "买房/施工流程2.md",
-    "买房/施工流程1.md",
     "05 Nas/密码表.md",
     "买房/买房.md",
-    "买房/叶子买房.md",
     "买房",
     "Attachment/Pasted image 20231125223411.png",
     "00 Inbox/Plugin Settings",
