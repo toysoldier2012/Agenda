@@ -18,6 +18,7 @@ kanban-plugin: basic
 ## 进行中
 
 - [ ] 房屋装修<br>- [x] 整体流程<br>- [ ] 分步详情
+- [ ] 上传工资单到pole emploi
 
 
 ## 完成
