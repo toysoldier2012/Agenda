@@ -18,8 +18,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "03e55474023ba2d5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "02 Kanban/Kanban.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,13 +150,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8a080b7dfa260988",
+  "active": "5a55745657e1311d",
   "lastOpenFiles": [
+    "01 备忘录/搬家换地址.md",
+    "02 Kanban/Kanban.md",
     "买房/叶子买房.md",
     "买房/买房_1.md",
-    "02 Kanban/Kanban.md",
     "03 Path of toysoldier/角色规划_1.md",
-    "01 备忘录/搬家换地址.md",
     "01 备忘录/搬家换地址_1.md",
     "00 Inbox/Plugin Settings/Easy typing_1.md",
     "00 Inbox/Plugin Settings/Easy typing.md",
