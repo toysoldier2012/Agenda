@@ -4,23 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "c91b4ae2339a5c66",
+        "id": "eae11e60f59d6bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "17a67a2237fca8ad",
+            "id": "8a080b7dfa260988",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "02 Kanban/Kanban.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "03e55474023ba2d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "买房/叶子买房.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "02 Kanban/Kanban.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "买房/叶子买房.md",
+            "file": "02 Kanban/Kanban.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "买房/叶子买房.md",
+            "file": "02 Kanban/Kanban.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "买房/叶子买房.md"
+            "file": "02 Kanban/Kanban.md"
           }
         }
       },
@@ -124,14 +134,6 @@
         "type": "leaf",
         "state": {
           "type": "side-panel-control-view",
-          "state": {}
-        }
-      },
-      {
-        "id": "417d805acc92208a",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
           "state": {}
         }
       }
@@ -148,13 +150,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "17a67a2237fca8ad",
+  "active": "5a55745657e1311d",
   "lastOpenFiles": [
+    "01 备忘录/搬家换地址.md",
+    "02 Kanban/Kanban.md",
     "买房/叶子买房.md",
     "买房/买房_1.md",
-    "02 Kanban/Kanban.md",
     "03 Path of toysoldier/角色规划_1.md",
-    "01 备忘录/搬家换地址.md",
     "01 备忘录/搬家换地址_1.md",
     "00 Inbox/Plugin Settings/Easy typing_1.md",
     "00 Inbox/Plugin Settings/Easy typing.md",
