@@ -4,16 +4,37 @@
     "type": "split",
     "children": [
       {
+        "id": "4e4e8643e4edd774",
+        "type": "tabs",
+        "dimension": 16.211962224554043,
+        "children": [
+          {
+            "id": "91dc3e28b4139b15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "买房/家用电器.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "f481524607f93b8c",
         "type": "tabs",
+        "dimension": 83.78803777544596,
         "children": [
           {
             "id": "d56c017976cfab95",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "买房/家用电器.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -67,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 208.5
   },
   "right": {
     "id": "2dff958b3a7b7f49",
@@ -91,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "买房/家用电器.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "买房/家用电器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,18 +145,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "91dc3e28b4139b15",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Kanban.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6ca76326f71cadfa",
@@ -162,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,15 +188,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7fb8215acd26ecd3",
+  "active": "d56c017976cfab95",
   "lastOpenFiles": [
+    "Kanban.md",
+    "买房/家用电器.md",
     "买房/装修.md",
     "05 Nas/密码表.md",
     "买房/Sans titre",
     "05 Nas/硬件.md",
     "05 Nas/系统.md",
     "05 Nas/软件.md",
-    "Kanban.md",
     "01 备忘录/搬家换地址.md",
     "04 经济学/Dictionary.md",
     "04 经济学/大空头.md",
@@ -213,7 +227,6 @@
     "07 买房/概述.md",
     "07 买房/Saint-Maur-des-Fossés.md",
     "07 买房",
-    "06 视频/照片后期备份流程.md",
     "06 视频",
     "05 Nas",
     "00 Inbox/归档/03 Full Calendar Events/Holiday",
