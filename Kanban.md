@@ -19,6 +19,7 @@ kanban-plugin: basic
 
 - [ ] 房屋装修<br>- [x] 整体流程<br>- [ ] 分步详情
 - [ ] 上传工资单到pole emploi
+- [ ] 清华操作系统原理<br>20h<br>@{2024-03-17}
 
 
 ## 完成

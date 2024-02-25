@@ -11,12 +11,9 @@
             "id": "d56c017976cfab95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "买房/装修.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "买房/装修.md",
+                "file": "Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "买房/装修.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "买房/装修.md"
+                "file": "Kanban.md"
               }
             }
           }
@@ -178,15 +175,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "d56c017976cfab95",
+  "active": "7fb8215acd26ecd3",
   "lastOpenFiles": [
-    "05 Nas/密码表.md",
     "买房/装修.md",
+    "05 Nas/密码表.md",
     "买房/Sans titre",
     "05 Nas/硬件.md",
     "05 Nas/系统.md",
     "05 Nas/软件.md",
-    "02 Kanban/Kanban.md",
+    "Kanban.md",
     "01 备忘录/搬家换地址.md",
     "04 经济学/Dictionary.md",
     "04 经济学/大空头.md",
