@@ -37,19 +37,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6858bd2840725be1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +185,10 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-file-cleaner:Clean files": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6858bd2840725be1",
+  "active": "d56c017976cfab95",
   "lastOpenFiles": [
     "Kanban.md",
     "买房/家用电器.md",
