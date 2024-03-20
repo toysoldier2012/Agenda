@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eae11e60f59d6bd9",
+        "id": "2b5c7ca4277dc7b8",
         "type": "tabs",
         "children": [
           {
-            "id": "8a080b7dfa260988",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "02 Kanban/Kanban.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "03e55474023ba2d5",
+            "id": "7ae6fc3aa1a66a5c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "02 Kanban/Kanban.md"
+                "file": "买房/全屋规划.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02 Kanban/Kanban.md",
+            "file": "买房/全屋规划.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02 Kanban/Kanban.md",
+            "file": "买房/全屋规划.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "02 Kanban/Kanban.md"
+            "file": "买房/全屋规划.md"
           }
         }
       },
@@ -150,22 +137,34 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5a55745657e1311d",
+  "active": "7ae6fc3aa1a66a5c",
   "lastOpenFiles": [
+    "买房/买房.md",
+    "买房/全屋规划.md",
+    "买房/客厅.md",
+    "买房/厨房.md",
+    "Excalidraw/Drawing 2024-03-03 22.22.34.excalidraw.md",
+    "Attachment/Pasted Image 20240303222434_426.png",
+    "Attachment/Pasted Image 20240303214557_540.png",
+    "Excalidraw/Drawing 2024-03-03 10.45.38.excalidraw.md",
+    "买房/施工流程1.md",
+    "Attachment/Pasted Image 20240303104558_967.png",
+    "买房/家用电器.md",
+    "买房/叶子买房.md",
+    "买房/装修.md",
+    "Excalidraw/Drawing 2024-03-02 09.46.21.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-02 13.18.24.excalidraw.md",
     "01 备忘录/搬家换地址.md",
     "02 Kanban/Kanban.md",
-    "买房/叶子买房.md",
     "买房/买房_1.md",
     "03 Path of toysoldier/角色规划_1.md",
     "01 备忘录/搬家换地址_1.md",
     "00 Inbox/Plugin Settings/Easy typing_1.md",
     "00 Inbox/Plugin Settings/Easy typing.md",
-    "买房/施工流程1.md",
     "00 Inbox/Plugin Settings/Style settings.md",
     "03 Path of toysoldier/角色规划.md",
     "买房/施工流程2.md",
     "05 Nas/密码表.md",
-    "买房/买房.md",
     "买房",
     "Attachment/Pasted image 20231125223411.png",
     "00 Inbox/Plugin Settings",
@@ -174,14 +173,8 @@
     "07 买房/Saint-Maur-des-Fossés.md",
     "07 买房/买房计划.md",
     "Attachment/Pasted Image 20230723222551_933.png",
-    "Excalidraw/Drawing 2023-07-23 20.41.19.excalidraw.md",
-    "07 买房/四处溜达看房子.md",
-    "07 买房/概述.md",
     "Attachment/Pasted Image 20230723164748_942.png",
-    "Excalidraw/Drawing 2023-07-21 09.14.13.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-21 00.45.45.excalidraw.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2023-07-21 00.41.30.excalidraw.md",
     "Excalidraw"
   ]
 }
