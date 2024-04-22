@@ -1,8 +1,8 @@
 [
   "obsidian-git",
   "obsidian-style-settings",
-  "table-editor-obsidian",
   "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-file-cleaner",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "file-cleaner-redux",
+  "obsidian-annotator"
 ]

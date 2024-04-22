@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4e4e8643e4edd774",
+        "id": "2881e4d56fbd4115",
         "type": "tabs",
         "children": [
           {
-            "id": "91dc3e28b4139b15",
+            "id": "6791ff79ea675b7f",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "买房/LMNP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "买房/LMNP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "买房/LMNP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +125,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0aba1481952d703",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "买房/LMNP.md"
               }
             }
           }
@@ -152,17 +169,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "file-cleaner-redux:Clean files": false,
       "graph:Ouvrir la vue graphique": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-file-cleaner:Clean files": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true
     }
   },
-  "active": "91dc3e28b4139b15",
+  "active": "6791ff79ea675b7f",
   "lastOpenFiles": [
+    "Attachment/JD2M_guide_du_loueur_en_meuble.pdf",
+    "买房/LMNP.md",
+    "Attachment/JD2M_guide_du_loueur_en_meuble 1.pdf",
     "买房/买房.md",
     "05 Nas/硬件.md",
     "03 Path of toysoldier/角色规划.md",
@@ -192,9 +211,7 @@
     "00 Inbox/归档/Diggers.md",
     "00 Inbox/归档/问公司的问题.md",
     "00 Inbox/归档/面试.md",
-    "00 Inbox/归档/存钱.md",
     "00 Inbox/style-settings.json",
-    "00 Inbox/Plugin Settings/Style settings.md",
     "00 Inbox/Plugin Settings",
     "Attachment/Pasted image 20230807111541.png",
     "Attachment/Pasted Image 20230723222551_933.png",
@@ -204,8 +221,6 @@
     "07 买房",
     "06 视频",
     "05 Nas",
-    "00 Inbox/归档/03 Full Calendar Events/Holiday",
-    "00 Inbox/归档/03 Full Calendar Events/Sleep",
     "Attachment/Pasted image 20230508132656.png",
     "Attachment/Pasted image 20230508131103.png",
     "Attachment/Pasted image 20230508131010.png"
