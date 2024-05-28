@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "买房/LMNP.md",
+                "file": "买房/La rochelle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "买房/LMNP.md",
+                "file": "买房/La rochelle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "买房/LMNP.md",
+                "file": "买房/La rochelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "买房/LMNP.md"
+                "file": "买房/La rochelle.md"
               }
             }
           }
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +180,11 @@
   },
   "active": "6791ff79ea675b7f",
   "lastOpenFiles": [
-    "Attachment/JD2M_guide_du_loueur_en_meuble.pdf",
+    "Attachment/PRESENTATION L ENVOLEE LA ROCHELLE VINCI.pdf",
+    "Attachment/ETUDE LOCATIVE L'ENVOLEE.pdf",
     "买房/LMNP.md",
+    "买房/La rochelle.md",
+    "Attachment/JD2M_guide_du_loueur_en_meuble.pdf",
     "Attachment/JD2M_guide_du_loueur_en_meuble 1.pdf",
     "买房/买房.md",
     "05 Nas/硬件.md",
@@ -210,7 +214,6 @@
     "00 Inbox/归档/Présentation.md",
     "00 Inbox/归档/Diggers.md",
     "00 Inbox/归档/问公司的问题.md",
-    "00 Inbox/归档/面试.md",
     "00 Inbox/style-settings.json",
     "00 Inbox/Plugin Settings",
     "Attachment/Pasted image 20230807111541.png",
@@ -220,7 +223,6 @@
     "Excalidraw",
     "07 买房",
     "06 视频",
-    "05 Nas",
     "Attachment/Pasted image 20230508132656.png",
     "Attachment/Pasted image 20230508131103.png",
     "Attachment/Pasted image 20230508131010.png"
