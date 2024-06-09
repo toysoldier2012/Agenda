@@ -4,5 +4,7 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-excalidraw-plugin",
   "file-cleaner-redux",
-  "obsidian-annotator"
+  "colored-text",
+  "editor-width-slider",
+  "mousewheel-image-zoom"
 ]

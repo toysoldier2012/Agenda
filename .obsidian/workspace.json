@@ -4,8 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "4e321d22e5fa1de2",
+        "type": "tabs",
+        "dimension": 17.95774647887324,
+        "children": [
+          {
+            "id": "e0aba1481952d703",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "买房/LMNP.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "2881e4d56fbd4115",
         "type": "tabs",
+        "dimension": 82.04225352112677,
         "children": [
           {
             "id": "6791ff79ea675b7f",
@@ -13,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "买房/La rochelle.md",
+                "file": "买房/LMNP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,21 +62,6 @@
             }
           },
           {
-            "id": "4498381019708a55",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "exFAT",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "da19eaea383d7618",
             "type": "leaf",
             "state": {
@@ -79,6 +82,7 @@
       {
         "id": "a10b3ccc7ec3275d",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "555963fd5c838ead",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "买房/La rochelle.md",
+                "file": "买房/LMNP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "买房/La rochelle.md",
+                "file": "买房/LMNP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,22 +131,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "e0aba1481952d703",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "买房/La rochelle.md"
-              }
-            }
           }
         ]
       },
       {
-        "id": "6ca76326f71cadfa",
+        "id": "9d6c4e650c3166eb",
         "type": "tabs",
+        "dimension": 20.905172413793103,
         "children": [
           {
             "id": "a37832939698e2d6",
@@ -151,17 +146,30 @@
               "type": "side-panel-control-view",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6ca76326f71cadfa",
+        "type": "tabs",
+        "dimension": 45.76149425287356,
+        "children": [
           {
-            "id": "e2b264deff409163",
+            "id": "4498381019708a55",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "search",
+              "state": {
+                "query": "exFAT",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,42 +186,44 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true
     }
   },
-  "active": "6791ff79ea675b7f",
+  "active": "7fb8215acd26ecd3",
   "lastOpenFiles": [
-    "Attachment/PRESENTATION L ENVOLEE LA ROCHELLE VINCI.pdf",
-    "Attachment/ETUDE LOCATIVE L'ENVOLEE.pdf",
-    "买房/LMNP.md",
     "买房/La rochelle.md",
-    "Attachment/JD2M_guide_du_loueur_en_meuble.pdf",
-    "Attachment/JD2M_guide_du_loueur_en_meuble 1.pdf",
     "买房/买房.md",
+    "06 视频/照片后期备份流程.md",
+    "06 视频/全景视频后期流程.md",
+    "06 视频/9月潜水.md",
     "05 Nas/硬件.md",
-    "03 Path of toysoldier/角色规划.md",
+    "05 Nas/系统.md",
+    "05 Nas/软件.md",
+    "05 Nas/密码表.md",
+    "04 经济学/Investissement.md",
+    "04 经济学/大空头.md",
+    "04 经济学/Dictionnaire/risque de marché.md",
+    "04 经济学/Dictionnaire/obligation.md",
+    "04 经济学/Dictionnaire/action.md",
+    "04 经济学/Dictionnaire/_Base.md",
     "03 Path of toysoldier/Kirac的回忆.md",
     "03 Path of toysoldier/舆图.md",
     "03 Path of toysoldier/问题.md",
     "03 Path of toysoldier/探险.md",
     "03 Path of toysoldier/刷图统计方法论.md",
     "03 Path of toysoldier/流亡经济学.md",
+    "03 Path of toysoldier/角色规划.md",
+    "01 备忘录/搬家换地址.md",
+    "04 经济学/Dictionnaire",
+    "Attachment/PRESENTATION L ENVOLEE LA ROCHELLE VINCI.pdf",
+    "Attachment/ETUDE LOCATIVE L'ENVOLEE.pdf",
+    "买房/LMNP.md",
+    "Attachment/JD2M_guide_du_loueur_en_meuble.pdf",
+    "Attachment/JD2M_guide_du_loueur_en_meuble 1.pdf",
     "Attachment/Pasted Image 20240303222434_426.png",
     "Attachment/Pasted Image 20240303214557_540.png",
-    "05 Nas/密码表.md",
     "买房/家用电器.md",
     "Kanban.md",
-    "买房/装修.md",
     "买房/Sans titre",
-    "05 Nas/系统.md",
-    "05 Nas/软件.md",
-    "01 备忘录/搬家换地址.md",
-    "04 经济学/Dictionary.md",
-    "04 经济学/大空头.md",
-    "买房/叶子买房.md",
     "买房",
     "Attachment/Pasted image 20231125223411.png",
-    "00 Inbox/归档/SG.md",
-    "00 Inbox/归档/Présentation.md",
-    "00 Inbox/归档/Diggers.md",
-    "00 Inbox/归档/问公司的问题.md",
     "00 Inbox/style-settings.json",
     "00 Inbox/Plugin Settings",
     "Attachment/Pasted image 20230807111541.png",
@@ -221,8 +231,6 @@
     "Attachment/Pasted Image 20230723164748_942.png",
     "Attachment/Pasted Image 20230721093354_574.png",
     "Excalidraw",
-    "07 买房",
-    "06 视频",
     "Attachment/Pasted image 20230508132656.png",
     "Attachment/Pasted image 20230508131103.png",
     "Attachment/Pasted image 20230508131010.png"
