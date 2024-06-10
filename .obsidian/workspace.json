@@ -6,7 +6,6 @@
       {
         "id": "4e321d22e5fa1de2",
         "type": "tabs",
-        "dimension": 17.95774647887324,
         "children": [
           {
             "id": "e0aba1481952d703",
@@ -14,31 +13,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "买房/LMNP.md"
+                "file": "04 经济学/Investissement.md"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "2881e4d56fbd4115",
-        "type": "tabs",
-        "dimension": 82.04225352112677,
-        "children": [
+          },
           {
-            "id": "6791ff79ea675b7f",
+            "id": "2e5215beaa247997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "买房/LMNP.md",
+                "file": "04 经济学/Investissement.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 277.5
   },
   "right": {
     "id": "2dff958b3a7b7f49",
@@ -82,7 +75,7 @@
       {
         "id": "a10b3ccc7ec3275d",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 42.14350590372388,
         "children": [
           {
             "id": "555963fd5c838ead",
@@ -98,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "买房/LMNP.md",
+                "file": "04 经济学/Investissement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +108,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "买房/LMNP.md",
+                "file": "04 经济学/Investissement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6ca76326f71cadfa",
+        "type": "tabs",
+        "dimension": 57.85649409627612,
+        "children": [
+          {
+            "id": "4498381019708a55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#EAD542",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -133,61 +148,28 @@
             }
           }
         ]
-      },
-      {
-        "id": "9d6c4e650c3166eb",
-        "type": "tabs",
-        "dimension": 20.905172413793103,
-        "children": [
-          {
-            "id": "a37832939698e2d6",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "6ca76326f71cadfa",
-        "type": "tabs",
-        "dimension": 45.76149425287356,
-        "children": [
-          {
-            "id": "4498381019708a55",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "exFAT",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "file-cleaner-redux:Clean files": false,
-      "graph:Ouvrir la vue graphique": false,
       "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "7fb8215acd26ecd3",
+  "active": "2e5215beaa247997",
   "lastOpenFiles": [
+    "00 Inbox/Plugin Settings/Style settings.md",
+    "00 Inbox/Plugin Settings/Easy typing.md",
+    "04 经济学/Investissement.md",
+    "买房/LMNP.md",
     "买房/La rochelle.md",
     "买房/买房.md",
     "06 视频/照片后期备份流程.md",
@@ -197,7 +179,6 @@
     "05 Nas/系统.md",
     "05 Nas/软件.md",
     "05 Nas/密码表.md",
-    "04 经济学/Investissement.md",
     "04 经济学/大空头.md",
     "04 经济学/Dictionnaire/risque de marché.md",
     "04 经济学/Dictionnaire/obligation.md",
@@ -214,13 +195,10 @@
     "04 经济学/Dictionnaire",
     "Attachment/PRESENTATION L ENVOLEE LA ROCHELLE VINCI.pdf",
     "Attachment/ETUDE LOCATIVE L'ENVOLEE.pdf",
-    "买房/LMNP.md",
     "Attachment/JD2M_guide_du_loueur_en_meuble.pdf",
     "Attachment/JD2M_guide_du_loueur_en_meuble 1.pdf",
     "Attachment/Pasted Image 20240303222434_426.png",
     "Attachment/Pasted Image 20240303214557_540.png",
-    "买房/家用电器.md",
-    "Kanban.md",
     "买房/Sans titre",
     "买房",
     "Attachment/Pasted image 20231125223411.png",
