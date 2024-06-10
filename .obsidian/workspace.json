@@ -6,6 +6,7 @@
       {
         "id": "4e321d22e5fa1de2",
         "type": "tabs",
+        "dimension": 15.833333333333332,
         "children": [
           {
             "id": "e0aba1481952d703",
@@ -16,9 +17,16 @@
                 "file": "04 经济学/Investissement.md"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e470b77e38d7de4b",
+        "type": "tabs",
+        "dimension": 84.16666666666667,
+        "children": [
           {
-            "id": "2e5215beaa247997",
+            "id": "9f8a7e79789c07de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +38,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,11 +171,11 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "2e5215beaa247997",
+  "active": "9f8a7e79789c07de",
   "lastOpenFiles": [
     "00 Inbox/Plugin Settings/Style settings.md",
-    "00 Inbox/Plugin Settings/Easy typing.md",
     "04 经济学/Investissement.md",
+    "00 Inbox/Plugin Settings/Easy typing.md",
     "买房/LMNP.md",
     "买房/La rochelle.md",
     "买房/买房.md",
