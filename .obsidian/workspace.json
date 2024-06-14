@@ -6,7 +6,7 @@
       {
         "id": "4e321d22e5fa1de2",
         "type": "tabs",
-        "dimension": 15.833333333333332,
+        "dimension": 15.83333333333333,
         "children": [
           {
             "id": "e0aba1481952d703",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 经济学/Investissement.md"
+                "file": "买房/Plessis Robinson.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 经济学/Investissement.md",
+                "file": "买房/Plessis Robinson.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 经济学/Investissement.md",
+                "file": "买房/Plessis Robinson.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 经济学/Investissement.md",
+                "file": "买房/Plessis Robinson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +173,11 @@
   },
   "active": "9f8a7e79789c07de",
   "lastOpenFiles": [
-    "00 Inbox/Plugin Settings/Style settings.md",
+    "Attachment/Pasted image 20240614200316.png",
     "04 经济学/Investissement.md",
+    "买房/Plessis Robinson.md",
+    "04 经济学/Sans titre.md",
+    "00 Inbox/Plugin Settings/Style settings.md",
     "00 Inbox/Plugin Settings/Easy typing.md",
     "买房/LMNP.md",
     "买房/La rochelle.md",
@@ -196,9 +199,6 @@
     "03 Path of toysoldier/问题.md",
     "03 Path of toysoldier/探险.md",
     "03 Path of toysoldier/刷图统计方法论.md",
-    "03 Path of toysoldier/流亡经济学.md",
-    "03 Path of toysoldier/角色规划.md",
-    "01 备忘录/搬家换地址.md",
     "04 经济学/Dictionnaire",
     "Attachment/PRESENTATION L ENVOLEE LA ROCHELLE VINCI.pdf",
     "Attachment/ETUDE LOCATIVE L'ENVOLEE.pdf",
