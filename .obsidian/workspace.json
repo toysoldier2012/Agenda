@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 视频/照片后期备份流程.md"
+                "file": "买房/自住房.md"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 视频/照片后期备份流程.md",
+                "file": "买房/自住房.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 视频/照片后期备份流程.md",
+                "file": "买房/自住房.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 视频/照片后期备份流程.md",
+                "file": "买房/自住房.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +166,7 @@
   },
   "active": "55ec1ff4668e33d2",
   "lastOpenFiles": [
+    "06 视频/照片后期备份流程.md",
     "买房/自住房.md",
     "Attachment/Pasted image 20240616124755.png",
     "Attachment/Pasted image 20240616122504.png",
@@ -182,7 +183,6 @@
     "买房/LMNP.md",
     "买房/La rochelle.md",
     "买房/买房.md",
-    "06 视频/照片后期备份流程.md",
     "06 视频/全景视频后期流程.md",
     "06 视频/9月潜水.md",
     "05 Nas/硬件.md",
