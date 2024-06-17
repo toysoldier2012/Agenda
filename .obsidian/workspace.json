@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "买房/自住房.md"
+                "file": "06 视频/照片后期备份流程.md"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "买房/自住房.md",
+                "file": "06 视频/照片后期备份流程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "买房/自住房.md",
+                "file": "06 视频/照片后期备份流程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "买房/自住房.md",
+                "file": "06 视频/照片后期备份流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,13 +166,13 @@
   },
   "active": "55ec1ff4668e33d2",
   "lastOpenFiles": [
+    "买房/自住房.md",
     "Attachment/Pasted image 20240616124755.png",
     "Attachment/Pasted image 20240616122504.png",
     "Attachment/Pasted image 20240614230906.png",
     "Attachment/Pasted image 20240614225518.png",
     "Attachment/Pasted image 20240614205556.png",
     "Attachment/Pasted image 20240614205105.png",
-    "买房/自住房.md",
     "Attachment/Pasted image 20240614204326.png",
     "Attachment/Pasted image 20240614200316.png",
     "04 经济学/Investissement.md",
@@ -208,7 +208,6 @@
     "Attachment/Pasted Image 20240303214557_540.png",
     "买房/Sans titre",
     "买房",
-    "Attachment/Pasted image 20231125223411.png",
     "00 Inbox/style-settings.json",
     "00 Inbox/Plugin Settings",
     "Excalidraw"
