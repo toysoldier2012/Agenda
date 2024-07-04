@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "买房/自住房.md"
+                "file": "07 买房/买房.md"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "买房/自住房.md",
+                "file": "07 买房/买房.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "买房/自住房.md",
+                "file": "07 买房/买房.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "买房/自住房.md",
+                "file": "07 买房/买房.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,19 @@
   },
   "active": "55ec1ff4668e33d2",
   "lastOpenFiles": [
+    "07 买房/自住房.md",
+    "07 买房/LMNP.md",
+    "07 买房/La rochelle.md",
+    "07 买房/买房.md",
+    "05 Nas/密码表.md",
+    "04 经济学/Investissement.md",
+    "04 经济学/Dictionnaire/risque de marché.md",
+    "04 经济学/Dictionnaire/obligation.md",
+    "04 经济学/Dictionnaire/action.md",
+    "04 经济学/Dictionnaire/_Base.md",
+    "03 Path of toysoldier/角色规划.md",
+    "01 备忘录/搬家换地址.md",
     "06 视频/照片后期备份流程.md",
-    "买房/自住房.md",
     "Attachment/Pasted image 20240616124755.png",
     "Attachment/Pasted image 20240616122504.png",
     "Attachment/Pasted image 20240614230906.png",
@@ -176,29 +187,19 @@
     "Attachment/Pasted image 20240614205105.png",
     "Attachment/Pasted image 20240614204326.png",
     "Attachment/Pasted image 20240614200316.png",
-    "04 经济学/Investissement.md",
     "04 经济学/Sans titre.md",
     "00 Inbox/Plugin Settings/Style settings.md",
     "00 Inbox/Plugin Settings/Easy typing.md",
-    "买房/LMNP.md",
-    "买房/La rochelle.md",
-    "买房/买房.md",
     "06 视频/全景视频后期流程.md",
     "06 视频/9月潜水.md",
     "05 Nas/硬件.md",
     "05 Nas/系统.md",
     "05 Nas/软件.md",
-    "05 Nas/密码表.md",
     "04 经济学/大空头.md",
-    "04 经济学/Dictionnaire/risque de marché.md",
-    "04 经济学/Dictionnaire/obligation.md",
-    "04 经济学/Dictionnaire/action.md",
-    "04 经济学/Dictionnaire/_Base.md",
     "03 Path of toysoldier/Kirac的回忆.md",
     "03 Path of toysoldier/舆图.md",
     "03 Path of toysoldier/问题.md",
     "03 Path of toysoldier/探险.md",
-    "03 Path of toysoldier/刷图统计方法论.md",
     "04 经济学/Dictionnaire",
     "Attachment/PRESENTATION L ENVOLEE LA ROCHELLE VINCI.pdf",
     "Attachment/ETUDE LOCATIVE L'ENVOLEE.pdf",
@@ -207,7 +208,7 @@
     "Attachment/Pasted Image 20240303222434_426.png",
     "Attachment/Pasted Image 20240303214557_540.png",
     "买房/Sans titre",
-    "买房",
+    "07 买房",
     "00 Inbox/style-settings.json",
     "00 Inbox/Plugin Settings",
     "Excalidraw"
