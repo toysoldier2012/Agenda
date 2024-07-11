@@ -29,9 +29,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbae289184a44b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/拆除.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "55ec1ff4668e33d2",
+  "active": "fbae289184a44b15",
   "lastOpenFiles": [
     "07 买房/装修/装修步骤.md",
     "00 Inbox/找平.md",
