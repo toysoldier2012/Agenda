@@ -13,7 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/拆除.md"
+                "file": "07 买房/装修/装修步骤.md"
               }
             }
           },
@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/拆除.md",
+                "file": "07 买房/装修/装修步骤.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/拆除.md",
+                "file": "07 买房/装修/装修步骤.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Inbox/拆除.md",
+                "file": "07 买房/装修/装修步骤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +179,9 @@
   },
   "active": "fbae289184a44b15",
   "lastOpenFiles": [
+    "00 Inbox/拆除.md",
     "07 买房/装修/装修步骤.md",
     "00 Inbox/找平.md",
-    "00 Inbox/拆除.md",
     "07 买房/买房.md",
     "07 买房/装修",
     "07 买房/自住房.md",
