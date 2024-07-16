@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 买房/装修/01_拆除 1.md"
+                "file": "07 买房/装修/00_装修.md"
               }
             }
           }
@@ -37,19 +37,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "47f98ee273db3505",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "07 买房/装修/01_拆除 1.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 买房/装修/01_拆除 1.md",
+                "file": "07 买房/装修/00_装修.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 买房/装修/01_拆除 1.md",
+                "file": "07 买房/装修/00_装修.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +171,12 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "7fb8215acd26ecd3",
+  "active": "fbae289184a44b15",
   "lastOpenFiles": [
+    "07 买房/装修/01_拆除 1.md",
+    "Attachment/Pasted Image 20240716224931_240.png",
     "Attachment/Pasted Image 20240716224412_475.png",
     "07 买房/装修/00_装修.md",
-    "07 买房/装修/01_拆除 1.md",
     "Excalidraw",
     "07 买房/装修/02_水电线路改造.md",
     "07 买房/装修/01_拆除.md",
@@ -225,8 +215,6 @@
     "Attachment/ETUDE LOCATIVE L'ENVOLEE.pdf",
     "Attachment/JD2M_guide_du_loueur_en_meuble.pdf",
     "Attachment/JD2M_guide_du_loueur_en_meuble 1.pdf",
-    "Attachment/Pasted Image 20240303222434_426.png",
-    "Attachment/Pasted Image 20240303214557_540.png",
     "买房/Sans titre",
     "07 买房",
     "00 Inbox/style-settings.json"
