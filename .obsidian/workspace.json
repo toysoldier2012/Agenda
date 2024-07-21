@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 买房/装修/00_装修.md"
+                "file": "07 买房/装修/装修师傅.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 买房/装修/01_拆除.md",
+                "file": "07 买房/装修/装修师傅.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,15 +44,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 买房/装修/00_装修.md",
+                "file": "07 买房/装修/02_水电线路改造.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 买房/装修/00_装修.md",
+                "file": "07 买房/装修/装修师傅.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 买房/装修/00_装修.md",
+                "file": "07 买房/装修/装修师傅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,12 +184,15 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "fbae289184a44b15",
+  "active": "d8c9fe6c54549200",
   "lastOpenFiles": [
+    "07 买房/装修/02_水电线路改造.md",
+    "07 买房/装修/装修师傅.md",
+    "07 买房/装修/01_拆除.md",
+    "07 买房/装修/01_拆除 1.md",
+    "07 买房/装修/00_装修.md",
     "07 买房/装修/找平.md",
     "07 买房/装修/铺地板.md",
-    "07 买房/装修/01_拆除 1.md",
-    "07 买房/装修/01_拆除.md",
     "Attachment/Pasted Image 20240718102236_027.png",
     "Attachment/Pasted Image 20240718102205_052.png",
     "Attachment/Pasted Image 20240718101823_046.png",
@@ -201,9 +203,7 @@
     "Attachment/Pasted Image 20240718101751_021.png",
     "Attachment/Pasted Image 20240718101735_030.png",
     "Attachment/Pasted Image 20240718101624_177.png",
-    "07 买房/装修/00_装修.md",
     "Excalidraw",
-    "07 买房/装修/02_水电线路改造.md",
     "07 买房/买房.md",
     "07 买房/LMNP.md",
     "07 买房/自住房.md",
@@ -224,7 +224,6 @@
     "00 Inbox/Plugin Settings/Easy typing.md",
     "06 视频/全景视频后期流程.md",
     "06 视频/9月潜水.md",
-    "05 Nas/硬件.md",
     "04 经济学/Dictionnaire",
     "Attachment/PRESENTATION L ENVOLEE LA ROCHELLE VINCI.pdf",
     "Attachment/ETUDE LOCATIVE L'ENVOLEE.pdf",
