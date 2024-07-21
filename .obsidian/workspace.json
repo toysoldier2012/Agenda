@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 买房/装修/01_拆除 1.md"
+                "file": "07 买房/装修/00_装修.md"
               }
             }
           }
@@ -42,9 +42,12 @@
             "id": "fbae289184a44b15",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "07 买房/装修/01_拆除 1.md"
+                "file": "07 买房/装修/00_装修.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -109,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 买房/装修/01_拆除 1.md",
+                "file": "07 买房/装修/00_装修.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 买房/装修/01_拆除 1.md",
+                "file": "07 买房/装修/00_装修.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +187,10 @@
   },
   "active": "fbae289184a44b15",
   "lastOpenFiles": [
-    "07 买房/装修/01_拆除.md",
+    "07 买房/装修/找平.md",
+    "07 买房/装修/铺地板.md",
     "07 买房/装修/01_拆除 1.md",
+    "07 买房/装修/01_拆除.md",
     "Attachment/Pasted Image 20240718102236_027.png",
     "Attachment/Pasted Image 20240718102205_052.png",
     "Attachment/Pasted Image 20240718101823_046.png",
@@ -199,7 +204,6 @@
     "07 买房/装修/00_装修.md",
     "Excalidraw",
     "07 买房/装修/02_水电线路改造.md",
-    "07 买房/装修/找平.md",
     "07 买房/买房.md",
     "07 买房/LMNP.md",
     "07 买房/自住房.md",
