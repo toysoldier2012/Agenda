@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 买房/装修/00_装修.md"
+                "file": "07 买房/装修/01_拆除 1.md"
               }
             }
           }
@@ -26,19 +26,30 @@
         "dimension": 84.375,
         "children": [
           {
-            "id": "fbae289184a44b15",
+            "id": "d8c9fe6c54549200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 买房/装修/00_装修.md",
+                "file": "07 买房/装修/01_拆除.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbae289184a44b15",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "07 买房/装修/01_拆除 1.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 买房/装修/00_装修.md",
+                "file": "07 买房/装修/01_拆除 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 买房/装修/00_装修.md",
+                "file": "07 买房/装修/01_拆除 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,13 +184,21 @@
   },
   "active": "fbae289184a44b15",
   "lastOpenFiles": [
+    "07 买房/装修/01_拆除.md",
     "07 买房/装修/01_拆除 1.md",
-    "Attachment/Pasted Image 20240716224931_240.png",
-    "Attachment/Pasted Image 20240716224412_475.png",
+    "Attachment/Pasted Image 20240718102236_027.png",
+    "Attachment/Pasted Image 20240718102205_052.png",
+    "Attachment/Pasted Image 20240718101823_046.png",
+    "Attachment/Pasted Image 20240718101823_042.png",
+    "Attachment/Pasted Image 20240718101806_035.png",
+    "Attachment/Pasted Image 20240718101806_031.png",
+    "Attachment/Pasted Image 20240718101751_026.png",
+    "Attachment/Pasted Image 20240718101751_021.png",
+    "Attachment/Pasted Image 20240718101735_030.png",
+    "Attachment/Pasted Image 20240718101624_177.png",
     "07 买房/装修/00_装修.md",
     "Excalidraw",
     "07 买房/装修/02_水电线路改造.md",
-    "07 买房/装修/01_拆除.md",
     "07 买房/装修/找平.md",
     "07 买房/买房.md",
     "07 买房/LMNP.md",
@@ -196,14 +215,6 @@
     "03 Path of toysoldier/角色规划.md",
     "01 备忘录/搬家换地址.md",
     "06 视频/照片后期备份流程.md",
-    "Attachment/Pasted image 20240616124755.png",
-    "Attachment/Pasted image 20240616122504.png",
-    "Attachment/Pasted image 20240614230906.png",
-    "Attachment/Pasted image 20240614225518.png",
-    "Attachment/Pasted image 20240614205556.png",
-    "Attachment/Pasted image 20240614205105.png",
-    "Attachment/Pasted image 20240614204326.png",
-    "Attachment/Pasted image 20240614200316.png",
     "04 经济学/Sans titre.md",
     "00 Inbox/Plugin Settings/Style settings.md",
     "00 Inbox/Plugin Settings/Easy typing.md",
