@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5c7ca4277dc7b8",
+        "id": "14e82f1e48c182ba",
         "type": "tabs",
         "children": [
           {
-            "id": "7ae6fc3aa1a66a5c",
+            "id": "c85985d99f3c9910",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "买房/全屋规划.md"
+                "file": "07 买房/装修/02_水电线路改造平面图.md"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "买房/全屋规划.md",
+            "file": "07 买房/装修/02_水电线路改造平面图.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "买房/全屋规划.md",
+            "file": "07 买房/装修/02_水电线路改造平面图.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "买房/全屋规划.md"
+            "file": "07 买房/装修/02_水电线路改造平面图.md"
           }
         }
       },
@@ -128,17 +128,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Ouvrir la vue graphique": false,
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-file-cleaner:Clean files": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-cleaner-redux:Clean files": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7ae6fc3aa1a66a5c",
+  "active": "c85985d99f3c9910",
   "lastOpenFiles": [
+    "07 买房/买房.md",
+    "00 Inbox/Plugin Settings/Style settings.md",
+    "00 Inbox/Plugin Settings/Easy typing.md",
     "买房/买房.md",
     "买房/全屋规划.md",
     "买房/客厅.md",
@@ -160,8 +163,6 @@
     "03 Path of toysoldier/角色规划_1.md",
     "01 备忘录/搬家换地址_1.md",
     "00 Inbox/Plugin Settings/Easy typing_1.md",
-    "00 Inbox/Plugin Settings/Easy typing.md",
-    "00 Inbox/Plugin Settings/Style settings.md",
     "03 Path of toysoldier/角色规划.md",
     "买房/施工流程2.md",
     "05 Nas/密码表.md",
@@ -171,7 +172,6 @@
     "00 Inbox/style-settings.json",
     "07 买房/装修估价.md",
     "07 买房/Saint-Maur-des-Fossés.md",
-    "07 买房/买房计划.md",
     "Attachment/Pasted Image 20230723222551_933.png",
     "Attachment/Pasted Image 20230723164748_942.png",
     "Untitled.canvas",
