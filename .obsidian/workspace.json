@@ -6,7 +6,6 @@
       {
         "id": "288819ea460e6946",
         "type": "tabs",
-        "dimension": 15.625,
         "children": [
           {
             "id": "e0aba1481952d703",
@@ -17,16 +16,9 @@
                 "file": "07 买房/装修/02_水电线路改造平面图.md"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "4e321d22e5fa1de2",
-        "type": "tabs",
-        "dimension": 84.375,
-        "children": [
+          },
           {
-            "id": "d8c9fe6c54549200",
+            "id": "9ec3ada46fd24ebd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -34,21 +26,9 @@
                 "file": "07 买房/装修/02_水电线路改造平面图.md"
               }
             }
-          },
-          {
-            "id": "fbae289184a44b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 买房/装修/02_水电线路改造.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,11 +161,11 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "d8c9fe6c54549200",
+  "active": "9ec3ada46fd24ebd",
   "lastOpenFiles": [
+    "07 买房/装修/02_水电线路改造平面图.md",
     "07 买房/装修/01_拆除平面图.md",
     "07 买房/装修/02_水电线路改造.md",
-    "07 买房/装修/02_水电线路改造平面图.md",
     "07 买房/装修/00_装修.md",
     "07 买房/装修/影音室.md",
     "Attachment/Pasted image 20240721230542.png",
