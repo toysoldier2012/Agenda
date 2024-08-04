@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14e82f1e48c182ba",
+        "id": "242f780706463f26",
         "type": "tabs",
         "children": [
           {
-            "id": "c85985d99f3c9910",
+            "id": "a4ec0ae52bbbf290",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -137,8 +137,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c85985d99f3c9910",
+  "active": "a4ec0ae52bbbf290",
   "lastOpenFiles": [
+    "07 买房/装修/02_水电线路改造平面图.md",
     "07 买房/买房.md",
     "00 Inbox/Plugin Settings/Style settings.md",
     "00 Inbox/Plugin Settings/Easy typing.md",
@@ -171,7 +172,6 @@
     "00 Inbox/Plugin Settings",
     "00 Inbox/style-settings.json",
     "07 买房/装修估价.md",
-    "07 买房/Saint-Maur-des-Fossés.md",
     "Attachment/Pasted Image 20230723222551_933.png",
     "Attachment/Pasted Image 20230723164748_942.png",
     "Untitled.canvas",
