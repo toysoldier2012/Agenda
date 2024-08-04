@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "288819ea460e6946",
+        "id": "daddfcd5fe747207",
         "type": "tabs",
         "children": [
           {
-            "id": "e0aba1481952d703",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "07 买房/装修/02_水电线路改造平面图.md"
-              }
-            }
-          },
-          {
-            "id": "9ec3ada46fd24ebd",
+            "id": "5efdf92246f965a5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -27,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,11 +150,13 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "9ec3ada46fd24ebd",
+  "active": "5efdf92246f965a5",
   "lastOpenFiles": [
+    "Attachment/Pasted Image 20240804104335_030.png",
+    "Attachment/Pasted Image 20240804104211_034.png",
+    "07 买房/装修/02_水电线路改造平面图.md",
     "Attachment/Pasted Image 20240804102547_673.png",
     "Attachment/Pasted Image 20240804093225_026.png",
-    "07 买房/装修/02_水电线路改造平面图.md",
     "07 买房/装修/01_拆除平面图.md",
     "07 买房/装修/02_水电线路改造.md",
     "07 买房/装修/00_装修.md",
@@ -181,8 +172,6 @@
     "Attachment/Pasted Image 20240718102205_052.png",
     "Attachment/Pasted Image 20240718101823_046.png",
     "Attachment/Pasted Image 20240718101823_042.png",
-    "Attachment/Pasted Image 20240718101806_035.png",
-    "Attachment/Pasted Image 20240718101806_031.png",
     "Excalidraw",
     "07 买房/买房.md",
     "07 买房/LMNP.md",
