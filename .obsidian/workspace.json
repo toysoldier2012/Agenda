@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 买房/装修/01_拆除.md"
+                "file": "07 买房/装修/01_拆除平面图.md"
               }
             }
           }
@@ -29,12 +29,9 @@
             "id": "7e0187ae9cd0a4da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "07 买房/装修/01_拆除.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "07 买房/装修/01_拆除平面图.md"
               }
             }
           }
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 买房/装修/01_拆除.md",
+                "file": "07 买房/装修/01_拆除平面图.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 买房/装修/01_拆除.md",
+                "file": "07 买房/装修/01_拆除平面图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,6 +170,7 @@
   },
   "active": "7e0187ae9cd0a4da",
   "lastOpenFiles": [
+    "07 买房/装修/01_拆除.md",
     "07 买房/装修/00_装修.md",
     "05 Nas/软件.md",
     "05 Nas/系统.md",
@@ -183,7 +181,6 @@
     "Attachment/Pasted Image 20240831232438_374.png",
     "07 买房/装修/02_水电线路改造.md",
     "07 买房/装修/01_拆除平面图.md",
-    "07 买房/装修/01_拆除.md",
     "Attachment/退休证_刘文玲-2.jpg",
     "Attachment/退休证_李国庆-2.jpg",
     "Excalidraw/Drawing 2024-08-31 18.44.09.excalidraw.md",
