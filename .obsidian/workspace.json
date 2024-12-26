@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 买房/装修/02_水电线路改造平面图.md"
+                "file": "01 备忘录/搬家换地址.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de 02_水电线路改造平面图"
+              "title": "Plan de 搬家换地址"
             }
           }
         ]
@@ -31,12 +31,15 @@
             "id": "7e0187ae9cd0a4da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "07 买房/装修/02_水电线路改造平面图.md"
+                "file": "01 备忘录/搬家换地址.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "02_水电线路改造平面图"
+              "icon": "lucide-file",
+              "title": "搬家换地址"
             }
           }
         ]
@@ -188,6 +191,7 @@
   },
   "active": "7e0187ae9cd0a4da",
   "lastOpenFiles": [
+    "07 买房/装修/02_水电线路改造平面图.md",
     "Attachment/Pasted Image 20241030230112_533.png",
     "07 买房/装修/02_水电线路改造.md",
     "07 买房/装修/01_拆除平面图.md",
@@ -198,7 +202,6 @@
     "Excalidraw/Drawing 2024-09-05 12.29.24.excalidraw.md",
     "05 Nas/硬件.md",
     "05 Nas/密码表.md",
-    "07 买房/装修/02_水电线路改造平面图.md",
     "Attachment/Pasted Image 20240831232438_374.png",
     "Attachment/退休证_刘文玲-2.jpg",
     "Attachment/退休证_李国庆-2.jpg",
@@ -210,7 +213,6 @@
     "Attachment/Pasted Image 20240804115908_937.png",
     "Attachment/Pasted Image 20240804104335_030.png",
     "Attachment/Pasted Image 20240804104211_034.png",
-    "Attachment/Pasted Image 20240804102547_673.png",
     "07 买房/装修/影音室.md",
     "07 买房/装修/装修师傅.md",
     "07 买房/装修/找平.md",
