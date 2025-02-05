@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 备忘录/搬家换地址.md"
+                "file": "05 Nas/密码表.md"
               },
               "icon": "lucide-list",
-              "title": "Plan de 搬家换地址"
+              "title": "Plan de 密码表"
             }
           }
         ]
@@ -31,10 +31,15 @@
             "id": "7e0187ae9cd0a4da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05 Nas/密码表.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "密码表"
             }
           }
         ]
@@ -184,7 +189,7 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "7fb8215acd26ecd3",
+  "active": "7e0187ae9cd0a4da",
   "lastOpenFiles": [
     "07 买房/装修/02_水电线路改造平面图.md",
     "Attachment/Pasted Image 20241030230112_533.png",
