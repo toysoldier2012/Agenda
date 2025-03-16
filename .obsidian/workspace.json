@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Nas/密码表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 密码表"
+              "title": "Plan"
             }
           }
         ]
@@ -44,8 +43,21 @@
               "icon": "lucide-file",
               "title": "密码表"
             }
+          },
+          {
+            "id": "b0b35ad8b73c7128",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,11 +205,11 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "7e0187ae9cd0a4da",
+  "active": "b0b35ad8b73c7128",
   "lastOpenFiles": [
     "05 Nas/软件.md",
-    "05 Nas/硬件.md",
     "05 Nas/密码表.md",
+    "05 Nas/硬件.md",
     "07 买房/装修/02_水电线路改造平面图.md",
     "Attachment/Pasted Image 20241030230112_533.png",
     "07 买房/装修/02_水电线路改造.md",
