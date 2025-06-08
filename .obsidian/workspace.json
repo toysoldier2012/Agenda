@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 攀岩/05 绳子.md",
+                "file": "05 Nas/密码表.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "05 绳子"
+              "title": "密码表"
             }
           }
         ],
@@ -188,8 +188,8 @@
   },
   "active": "ba3cc1bf22e2dc8f",
   "lastOpenFiles": [
-    "05 Nas/软件.md",
     "08 攀岩/05 绳子.md",
+    "05 Nas/软件.md",
     "08 攀岩",
     "05 Nas/密码表.md",
     "05 Nas/硬件.md",
