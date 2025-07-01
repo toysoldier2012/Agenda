@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 攀岩/技术要领/保护原则.md",
+                "file": "08 攀岩/器材/07 腰带.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "保护原则"
+              "title": "07 腰带"
             }
           }
         ]
@@ -129,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 攀岩/技术要领/保护原则.md",
+                "file": "08 攀岩/器材/07 腰带.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 保护原则"
+              "title": "Plan de 07 腰带"
             }
           },
           {
@@ -187,6 +187,8 @@
   },
   "active": "ba3cc1bf22e2dc8f",
   "lastOpenFiles": [
+    "08 攀岩/技术要领/保护原则.md",
+    "08 攀岩/器材/07 腰带.md",
     "08 攀岩/技术要领/保护技术.md",
     "08 攀岩/器材/06 保护器.md",
     "Attachment/Pasted image 20250625004037.png",
@@ -198,7 +200,6 @@
     "Attachment/Pasted image 20250625003614.png",
     "Attachment/Pasted image 20250625003602.png",
     "08 攀岩/器材/05 绳子.md",
-    "08 攀岩/技术要领/保护原则.md",
     "08 攀岩/器材/00 前言.md",
     "Attachment/Pasted image 20250625002258.png",
     "Attachment/Pasted image 20250625000559.png",
@@ -227,7 +228,6 @@
     "07 买房/装修/新建墙体.md",
     "07 买房/装修",
     "07 买房/La rochelle.md",
-    "04 经济学/Investissement.md",
     "04 经济学/Dictionnaire",
     "Attachment/PRESENTATION L ENVOLEE LA ROCHELLE VINCI.pdf",
     "Attachment/ETUDE LOCATIVE L'ENVOLEE.pdf",
