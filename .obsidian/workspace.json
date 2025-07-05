@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 视频/达芬奇/00 项目设置.md",
+                "file": "06 视频/达芬奇/03 剪辑.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00 项目设置"
+              "title": "03 剪辑"
             }
           }
         ]
@@ -129,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 视频/达芬奇/00 项目设置.md",
+                "file": "06 视频/达芬奇/03 剪辑.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 00 项目设置"
+              "title": "Plan de 03 剪辑"
             }
           },
           {
@@ -187,8 +187,10 @@
   },
   "active": "ba3cc1bf22e2dc8f",
   "lastOpenFiles": [
-    "06 视频/达芬奇/01 媒体面板.md",
-    "06 视频/达芬奇/00 项目设置.md",
+    "06 视频/达芬奇/02 快编.md",
+    "06 视频/达芬奇/03 剪辑.md",
+    "06 视频/达芬奇/00 General.md",
+    "06 视频/达芬奇/01 媒体.md",
     "06 视频/9月潜水.md",
     "05 Nas/密码表.md",
     "06 视频/达芬奇",
@@ -226,8 +228,6 @@
     "07 买房/装修/装修师傅.md",
     "07 买房/装修/找平.md",
     "Excalidraw",
-    "07 买房/买房.md",
-    "07 买房/LMNP.md",
     "07 买房/装修",
     "04 经济学/Dictionnaire",
     "Attachment/PRESENTATION L ENVOLEE LA ROCHELLE VINCI.pdf",
