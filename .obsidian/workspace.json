@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "2025-07-29 国王之路"
             }
+          },
+          {
+            "id": "83292a7aeae611b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 旅游/2025-07-29 国王之路.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 2025-07-29 国王之路"
+              "title": "Plan"
             }
           },
           {
@@ -176,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "templates:Insérer le modèle": false,
@@ -185,7 +198,7 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "3e0ac550f90367e1",
+  "active": "83292a7aeae611b2",
   "lastOpenFiles": [
     "Attachment/a338ede6d1cf17411fcab1235cde5cf6.png",
     "Attachment/Pasted image 20250728141751.png",
